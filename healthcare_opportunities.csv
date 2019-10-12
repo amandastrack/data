@@ -1,0 +1,671 @@
+﻿Id,AccountId,IsClosed,IsWon,Type,Industry__c,CloseDate,StageName,Lost_Reason__c,Lost_to_Competitor__c,With_Competitor__c,Won_Loss_Detail__c
+0060h000019Djc2AAC,0010h00001Xn6XnAAJ,FALSE,FALSE,New Business,Healthcare,2/28/2020,Assessing,,,Reputation.com,
+0060h000019CTwbAAG,0010h00001Y0YRBAA3,FALSE,FALSE,New Business,Healthcare,12/28/2019,Assessing,,,,
+0060h000019CZ67AAG,0010h00001Xn6Y5AAJ,FALSE,FALSE,New Business,Healthcare,12/27/2019,Validating,,,,
+0060h000019CzWTAA0,0010h00001blJWmAAM,FALSE,FALSE,New Business,Healthcare,12/23/2019,Assessing,,,,
+0060h00001AmUBXAA3,0010L00001muttJQAQ,FALSE,FALSE,New Business,Healthcare,12/7/2019,Prospecting,,,Reputation.com,
+0060h000018OqmTAAS,0010L00001mutOHQAY,FALSE,FALSE,New Business,Healthcare,12/6/2019,Assessing,,,Yext,
+0060h000019Dxl2AAC,0010L00001rIvpuQAC,FALSE,FALSE,New Business,Healthcare,12/6/2019,Prospecting,,,,
+0060h000019DuGeAAK,0010h00001bmjg5AAA,FALSE,FALSE,New Business,Healthcare,12/3/2019,Prospecting,,,,
+0060h000019Dq3QAAS,0010h00001bmhVNAAY,FALSE,FALSE,New Business,Healthcare,12/1/2019,Prospecting,,,,
+0060h000018NvAcAAK,0010L00001mutyBQAQ,FALSE,FALSE,New Business,Healthcare,11/30/2019,Redlines,,,,
+0060h000019DogQAAS,001E000001EqFJLIA3,FALSE,FALSE,New Business,Healthcare,11/30/2019,Assessing,,,,
+0060h000018l1WCAAY,001E000000jBQmtIAG,FALSE,FALSE,New Business,Healthcare,11/29/2019,Confirming,,,,
+0060h000019D7PkAAK,0010h00001ZJRIgAAP,FALSE,FALSE,New Business,Healthcare,11/22/2019,Validating,,,,
+0060h000018lJ88AAE,0010L00001mutMnQAI,FALSE,FALSE,New Business,Healthcare,11/20/2019,Validating,,,,
+0060h000019DWoYAAW,0010h00001Zp0eCAAR,FALSE,FALSE,New Business,Healthcare,11/17/2019,Prospecting,,,,
+0060h000019DVLWAA4,001E000000jC9mBIAS,FALSE,FALSE,New Business,Healthcare,11/16/2019,Prospecting,,,,
+0060h000019DMZaAAO,001E000000jBQkEIAW,FALSE,FALSE,New Business,Healthcare,11/8/2019,Confirming,,,,
+0060h000019DJbYAAW,0010L00001mutPQQAY,FALSE,FALSE,New Business,Healthcare,11/5/2019,Assessing,,,Other,
+0060h000019DEtnAAG,0010L00001mutgYQAQ,FALSE,FALSE,New Business,Healthcare,11/3/2019,Assessing,,,,
+0060h000019DEAWAA4,0010L00001oQzXZQA0,FALSE,FALSE,New Business,Healthcare,11/3/2019,Prospecting,,,,
+0060h000019DF6XAAW,001E000001fq9fmIAA,FALSE,FALSE,New Business,Healthcare,11/3/2019,Validating,,,,
+0060h000018O0aJAAS,001E000001cEPewIAG,FALSE,FALSE,New Business,Healthcare,10/31/2019,Confirming,,,MOZ,
+0060h000018OhlZAAS,001E000001fq9fIIAQ,FALSE,FALSE,New Business,Healthcare,10/31/2019,Confirming,,,Yext,
+0060h000018Me62AAC,001E000001fq9gdIAA,FALSE,FALSE,New Business,Healthcare,10/31/2019,Negotiating,,,,
+0060h000018OHphAAG,001E000001EqFp8IAF,FALSE,FALSE,New Business,Healthcare,10/31/2019,Validating,,,Reputation.com,
+0060h000019DPyfAAG,0010h00001bm9L6AAI,FALSE,FALSE,New Business,Healthcare,10/31/2019,Validating,,,,
+0060h000016yq70AAA,0010h00001Xn6YqAAJ,FALSE,FALSE,New Business,Healthcare,10/30/2019,Assessing,,,,
+0060h000019DS64AAG,0010h00001Y0SlxAAF,FALSE,FALSE,New Business,Healthcare,10/28/2019,Assessing,,,,
+0060h000019D6nCAAS,0010h00001XmdxFAAR,FALSE,FALSE,New Business,Healthcare,10/27/2019,Validating,,,,
+0060h000019D44VAAS,001E000000jCN2vIAG,FALSE,FALSE,New Business,Healthcare,10/25/2019,Assessing,,,Reputation.com,
+0060h000019D020AAC,001E000001cEPfzIAG,FALSE,FALSE,New Business,Healthcare,10/21/2019,Validating,,,,
+0060h000019CwbmAAC,0010h00001Xn6bOAAR,FALSE,FALSE,New Business,Healthcare,10/19/2019,Prospecting,,,,
+0060h000018NvAwAAK,0010h00001Xn6XBAAZ,FALSE,FALSE,New Business,Healthcare,10/17/2019,Redlines,,,,
+0060h000019Ci1bAAC,0010h00001Xn6YtAAJ,FALSE,FALSE,New Business,Healthcare,10/15/2019,Redlines,,,,
+0060h000019Cp7ZAAS,0010L00001owgN0QAI,FALSE,FALSE,New Business,Healthcare,10/12/2019,Prospecting,,,Yext,
+0060h000019DiRFAA0,0010L00001id9M5QAI,FALSE,FALSE,New Business,Healthcare,10/11/2019,Redlines,,,Reputation.com,
+0060h000019CNEjAAO,001E000001cEPqhIAG,TRUE,FALSE,New Business,Healthcare,10/9/2019,Closed Lost,No Show,,,
+0060h000018NlbkAAC,0010h00001awFIbAAM,TRUE,FALSE,New Business,Healthcare,10/9/2019,Closed Lost,Delayed Opportunity,,Rio SEO,wants me to reach back out after december
+0060h000019Ci91AAC,001E000000jC7RFIA0,TRUE,FALSE,New Business,Healthcare,10/7/2019,Closed Lost,Lost to Competitor,,Yext,Thay had previous did a 6 month pilot with them - they were going to move forward and revisiting as a formality.
+0060h000019DS6YAAW,0010h00001bmGAlAAM,TRUE,FALSE,New Business,Healthcare,10/3/2019,Closed Lost,Referrals Only,,Other,Won't do resller agreements - will only intro to their clients to see if they will sign up with vendors.
+0060h000019CNBaAAO,001E000000jBQmtIAG,FALSE,FALSE,New Business,Healthcare,9/30/2019,Negotiating,,,,
+0060h000018OPecAAG,001E000000jCN3FIAW,FALSE,FALSE,New Business,Healthcare,9/25/2019,Negotiating,,,Reputation.com,
+0060h000019CHqjAAG,001E00000169TDnIAM,FALSE,FALSE,New Business,Healthcare,9/20/2019,Assessing,,,Wouldn't Say,
+0060h000019DRRLAA4,0010h00001bmFEHAA2,TRUE,TRUE,New Business,Healthcare,9/20/2019,Closed Won,Product Feature: Listings,,Yext,"Date of when they first heard about us or when we first started reaching out
+Met at SHSMD conference on 9/8/2019.
+
+How they heard about us
+Booth at trade show
+
+Number of pitches throughout sales cycle
+One pitch to their whole marketing and digital team. 
+
+Titles of Champion and Decision Maker
+DM & Champion - Robin - Met at SHSMD - Sr. VP Marketing & Sales
+2nd Champion and user - Brittany - Social Media & Marketing Coordinator
+
+Favorite Chatmeter products
+Listings product with Yelp & Rankings
+Our team here to talk about listings and help give advice. Yext had repeated dropped the ball on service support with them and their listings were in terrible shape. 
+
+Used our listings collateral and Chatmeter vs. Yext deck to speak to problems with syndication and suppression with Yest. 
+Also, we ran out of Starbucks coffee cards, so I used sendoso to send Robin a gift card right after the conference to get back on the line. And keep our momentum going. 
+
+Any hurdles the contact had to overcome on their side to sign the contract
+Fastest medical contract review I have ever had. They are a different kind of provider, so they didn't have a much red tape. 
+
+Length of sales cycle
+
+Less than 2 weeks. 
+
+Competitors won against
+Yext."
+0060h000018lMnFAAU,001E000001fq9fQIAQ,TRUE,FALSE,New Business,Healthcare,9/18/2019,Closed Lost,Stayed with Competitor,,,Jennifer stopped responded to all my emails and calls.
+0060h000019DPABAA4,0010L00001rIv7RQAS,TRUE,FALSE,New Business,Healthcare,9/17/2019,Closed Lost,Locked in Contract,,,Mike jumped on a quick call. They just partnered with Yext & Doctor.com recently and are not looking to leave at this time. He said to follow up in April 2020 to get on the evaluation docket.
+0060h000019C6KgAAK,0010h00001Xn6XDAAZ,TRUE,FALSE,New Business,Healthcare,9/17/2019,Closed Lost,Referrals Only,,,They were just looking for a referral agreement with some ridiculous terms.
+0060h000019DNyhAAG,0010h00001Xn6YjAAJ,TRUE,FALSE,New Business,Healthcare,9/16/2019,Closed Lost,Locked in Contract,,Reputation.com,"Signed with Rep.com in April 2019 for a 3 year agreement. Shantel took the call because Brett pressed that she should get on the line, but she is not shopping at all. We talked New Orleans for a little bit and I said she should go to the wildlife refuge.
+Follow up in Nov/Dec 2021 to evaluate vendors to change in 2022"
+0060h000019DCqdAAG,0010h00001blQMvAAM,TRUE,FALSE,New Business,Healthcare,9/6/2019,Closed Lost,Reseller Opportunity,,,"$1000 per month min. is WAY out of budget for them... referring over to partner
+
+Kevin passed to Shelley on 9/6"
+0060h000019Cve6AAC,0010h00001blDs0AAE,TRUE,TRUE,New Business,Healthcare,8/29/2019,Closed Won,Customer/Partner Referral,,,"Date of when they first heard about us or when we first started reaching out
+8/19
+
+How they heard about us
+filled out get started form upon referral from current client BioScrip that kylie manages
+
+Number of pitches throughout sales cycle
+1
+
+Titles of Champion and Decision Maker
+Courtney Seal -digital marketing specialist
+Jeff Becker 
+
+Favorite Chatmeter products
+Platform
+
+State if the contact ever went dark, how long, and how they came back (BDR got them back on, requested a demo)
+Never went dark
+
+Any marketing content downloads (case study, downloads, webinars, etc.)
+sendoso coffee gift card
+
+Participation from other Chatmeter departments that assisted in the close (Tracy or Michael to discuss onboarding, Marketing did an ROI report, Any member of the exec team)
+kylie carlton had relationship with company they purchased so we demoed together
+
+Any hurdles the contact had to overcome on their side to sign the contract
+no
+
+Length of sales cycle
+10 days
+
+Competitors won against
+none"
+0060h000017IWFeAAO,0010h00001ZJRIgAAP,TRUE,FALSE,New Business,Healthcare,8/28/2019,Closed Lost,SE Turnover,,,They showed no interest to Tania before she left - only wanted a patient survey tool.
+0060h000019CdEnAAK,0010h00001awFJoAAM,TRUE,FALSE,New Business,Healthcare,8/23/2019,Closed Lost,Didn't See Value,,SweetIQ,They aren't looking to expand Local SEO management for more than 10 locations and to make any changes.
+0060h000019CwjMAAS,001E000001gQXAdIAO,TRUE,FALSE,New Business,Healthcare,8/22/2019,Closed Lost,Didn't See Value,,Reputation.com,"not interested in switching vendors, seeing a demo , etc."
+0060h000018NjxpAAC,0010h00001Xn6ZhAAJ,TRUE,FALSE,New Business,Healthcare,8/22/2019,Closed Lost,Corporate Takeover,,,Danielle got back to me. They are in a re-org and can't make any vendor choices for the foreseeable future. Keeping in touch and she is pushing for listings change.
+0060h000018MukBAAS,0010L00001idaUcQAI,TRUE,FALSE,New Business,Healthcare,8/21/2019,Closed Lost,Delayed Opportunity,,,The last email stated that other projects have come up and want us to touch base towards the end of the year.
+0060h000019CPJ6AAO,001E000000qJhzSIAS,TRUE,FALSE,New Business,Healthcare,8/21/2019,Closed Lost,Locked in Contract,,Reputation.com,Locked into a contract with Rep.com until late 2020
+0060h000019CisTAAS,0010h00001Xn6Z5AAJ,TRUE,FALSE,New Business,Healthcare,8/21/2019,Closed Lost,Locked in Contract,,Wouldn't Say,just signed with a competitor and only took the call because their CEO told them to. wouldnt say competitor name
+0060h000018O4wJAAS,0010L00001oQzW2QAK,TRUE,TRUE,New Business,Healthcare,8/19/2019,Closed Won,Product Feature: All-In-One Dash,,Sprinklr,"Closed win notes in Pilot - 
+To close this side was a huge effort from Ally, Oscar, Tracy, Michael, Lee, & really the whole Chatmeter team for jumping on calls and showing tons of value during these 2 months of limbo. 
+
+Side note, I DO NOT recommend doing pilots in the future."
+0060h000018OQd1AAG,001E000001fq9NLIAY,TRUE,FALSE,New Business,Healthcare,8/14/2019,Closed Lost,No Show,,,
+0060h000019CX4FAAW,001E000001655I9IAI,TRUE,FALSE,New Business,Healthcare,8/13/2019,Closed Lost,Locked in Contract,,SOCi,the client is in contract with 2 vendors at the moment and said not making a switch. Wants follow up in 6 months when it ends
+0060h000018OigQAAS,001E000000qJieZIAS,TRUE,FALSE,New Business,Healthcare,8/12/2019,Closed Lost,Champion Left - New Main Contact,,,contact left company - cannot get in touch with corporate to reconnect
+0060h000018OFefAAG,0010h00001awXSaAAM,TRUE,FALSE,New Business,Healthcare,8/8/2019,Closed Lost,Customer Not Qualified,,,"over inflated the locations he works with, said 115 one time and then another under 50 locations.  Not worth the time"
+0060h000017HPClAAO,0010L00001mutOHQAY,TRUE,FALSE,New Business,Healthcare,8/2/2019,Closed Lost,SE Turnover,,Yext,
+0060h000018NGXGAA4,0010L00001qXBUKQA4,TRUE,FALSE,New Business,Healthcare,8/1/2019,Closed Lost,Corporate Takeover,,,Another team taking over this project. reconnecting
+0060h000018OUgoAAG,001E000000jBQr3IAG,TRUE,FALSE,New Business,Healthcare,8/1/2019,Closed Lost,Customer Stopped Responding,,,"Alexa emailed me to let me know she was forwarding everything to the CEO, Richard Albee. After several linked in, calls, and email attempts there has been no response from Alexa or Mr. Albee. Brandon will keep on this one, trying to re-engage."
+0060h000018OXeWAAW,0010L00001idaV2QAI,TRUE,TRUE,New Business,Healthcare,7/30/2019,Closed Won,Product Feature: Reputation,,,"Win Details: Win Details: 
+
+How they heard about us : Outbound Call/BDR (Brett).... Aleshia was new in role, happened to be great timing. 
+
+Number of pitches throughout the sales cycle
+1 discovery call/dashboard review 
+
+Titles of Champion and Decision Maker
+Aleshia- Digital and Social Media Manager
+DM: Todd Spittal- CEO/President
+
+Favorite Chatmeter products
+All in one dashboard, review monitoring (PULSE) and responding
+
+State if the contact ever went dark, how long, and how they came back (BDR got them back on, requested a demo)
+Never went dark- Never went dark- communicated well the whole cycle 
+
+Any marketing content downloads (case study, downloads, webinars, etc.):
+n/a
+
+Participation from other Chatmeter departments that assisted in the close 
+n/a
+
+Any hurdles the contact had to overcome on their side to sign the contract
+Todd was against annual contract and wanted a Term for Convenience- I emailed him that we couldn't do that but that we would be willing to compromise in other ways- Lee joined the call and approved moving forward without auto renew. 
+
+Length of sales cycle
+1.5mo due to Aleshia moving and 2 week lag time between follow ups 
+
+Competitors won against
+Aleshia let me know she was shopping but would not divulge competitors other than mentioning Rep.com 
+
+Sendoso: 
+Sent Aleshia a Cheeseboard for her new house."
+0060h000019CGAFAA4,0010L00001muteqQAA,TRUE,FALSE,New Business,Healthcare,7/26/2019,Closed Lost,Locked in Contract,,Yext,Locked in with Yext for listings and are not going to evaluate at this renewal cycle.
+0060h000018OrqqAAC,001E000001EqFTfIAN,TRUE,FALSE,New Business,Healthcare,7/26/2019,Closed Lost,Budget,,,No budget until next budgeting cycle in March 2020 for the budget that starts Oct 2020
+0060h000018OhmwAAC,0010h00001awh2eAAA,TRUE,FALSE,New Business,Healthcare,7/24/2019,Closed Lost,Stayed with Competitor,,Brandify,Found out on the call and followup meeting they're with Brandify until next June.
+0060h000018Nle5AAC,0010L00001mQiRxQAK,FALSE,FALSE,New Business,Healthcare,7/23/2019,Prospecting,,,Yext,
+0060h000018NaJ2AAK,001E000000qJiScIAK,TRUE,FALSE,New Business,Healthcare,7/22/2019,Closed Lost,Stayed with Competitor,,Reputation.com,"I just want to let you know we will not be moving forward with Chatmeter, as we will renew with our current vendor. There just isn’t enough reason for us to switch, even though Chatmeter was one of our top 3 contenders. It seems most of the leaders in this space are on pretty even ground.  I appreciate the time and work you’ve put in to share Chatmeter with us, and wish you all the best.
+I already called and emailed with my rebuttals.  Will re-open an opp if they reconsider."
+0060h000018Ob1OAAS,0010h00001awfj1AAA,TRUE,TRUE,New Business,Healthcare,7/19/2019,Closed Won,Product Feature: All-In-One Dash,,,"Date of when they first heard about us or when we first started reaching out
+-Met Jim at the Digital Healthcare Transformation conference in Nashville. He attended the round table ran by Tania and me and wanted to meet after. We were not originally scheduled to meet. 
+
+Number of pitches throughout sales cycle
+Two pitches - one for Jim at the conference with an example demo, then a couple weks later with him and Liz over the phone using their locations. 
+
+Titles of Champion and Decision Maker
+	- Champion - VP of marketing and Customer Navigation
+	- DM - CFO
+
+Favorite Chatmeter products
+	- All in one product, they are new to Local SEO and were handling reviews/lisitngs manually and need a tool to help and track results. 
+	
+State if the contact ever went dark, how long, and how they came back
+	- No Jim and I stayed in touch post conference to signing. 
+	
+Any marketing content downloads (case study, downloads, webinars, etc.)
+	- No
+	
+Participation from other Chatmeter departments that assisted in the close
+	- Marketing setting up the conference and helping us with great talking points for our Voice Engine Optimization round table. 
+	
+Any hurdles the contact had to overcome on their side to sign the contract
+	- CFO pushed back and Jim was on vacation. I kept following up with CFO directly to get the agreement signed.
+	
+Length of sales cycle
+	- About 1 month
+
+Competitors won against
+None"
+0060h000018Nld7AAC,0010h00001awFJoAAM,TRUE,FALSE,New Business,Healthcare,7/18/2019,Closed Lost,Customer Stopped Responding,,SweetIQ,"The champion - or at least user of SweetIQ changed roles, now works in HR, and the team stopped responding to all outreach after our first meeting and saying once that they needed more time to discuss."
+0060h000018l7aDAAQ,0010L00001mutbbQAA,TRUE,FALSE,New Business,Healthcare,7/11/2019,Closed Lost,Customer Stopped Responding,,,reached out (mau and I) many many times with no response
+0060h000018Ni5nAAC,001E000001XrQG1IAN,TRUE,FALSE,New Business,Healthcare,7/11/2019,Closed Lost,No Show,,Reputation.com,"She cancelled first meeting, had a quick call to discuss rescheduled and never got back me"
+0060h000018MuKSAA0,0010h00001avwyGAAQ,TRUE,FALSE,New Business,Healthcare,7/11/2019,Closed Lost,Delayed Opportunity,,,They currently don't have the budget or resources at this moment - reach back out in October
+0060h000018O4MLAA0,001E000001cEQOAIA4,TRUE,FALSE,New Business,Healthcare,7/11/2019,Closed Lost,No Show,,,Brett never rescheduled the meeting
+0060h000017HCfQAAW,0010h00001Xn6XDAAZ,TRUE,FALSE,New Business,Healthcare,7/11/2019,Closed Lost,Referrals Only,,,They have no desire to be a reseller - they would like to be a referral partner but he continually pushes things off so this isn't really a priority at all.
+0060h000018O2b5AAC,0010h00001Xn6XuAAJ,TRUE,FALSE,New Business,Healthcare,7/11/2019,Closed Lost,Other (Explain),,,solely focusing on review generation
+0060h000018ktx0AAA,0010h00001ZpNMQAA3,TRUE,FALSE,New Business,Healthcare,7/11/2019,Closed Lost,Champion Left - New Main Contact,,,Also needed a more robust social listening tool
+0060h000018lMnPAAU,001E000001EqDwpIAF,TRUE,FALSE,New Business,Healthcare,7/10/2019,Closed Lost,Lost to Competitor,,,"We both agree that Chatmeter looks like a great platform and has lots of great functionality, however, we have decided to go with a different vendor whose offering aligns just a little better with our needs."
+0060h000018NkP0AAK,0010L00001mutUcQAI,TRUE,FALSE,New Business,Healthcare,7/9/2019,Closed Lost,No Show,,,No Show and still in rescheduling
+0060h000018NkO2AAK,0010L00001muu2gQAA,TRUE,FALSE,New Business,Healthcare,7/9/2019,Closed Lost,Opened in Error (Not an Opp),,,This was not really an opp.  He does marketing for 8 physicians only.
+0060h000018Nj9kAAC,0010L00001rIvRJQA0,TRUE,FALSE,New Business,Healthcare,7/9/2019,Closed Lost,Locked in Contract,,Reputation.com,In contract through Dec 2019
+0060h000018NmBdAAK,0010L00001rIvRJQA0,TRUE,FALSE,New Business,Healthcare,7/9/2019,Closed Lost,Locked in Contract,Reputation.com,Reputation.com,In contract with rep.com through December
+0060h000016ypn0AAA,0010h00001ZJ5nTAAT,TRUE,FALSE,New Business,Healthcare,7/8/2019,Closed Lost,Customer Stopped Responding,,,Need to reach back out - stopped responding
+0060h000017Inr9AAC,0010L00001qXBUOQA4,TRUE,FALSE,New Business,Healthcare,7/3/2019,Closed Lost,Delayed Opportunity,,,Jill is only one person that is handling all marketing and reputation - she doesn't even have control of all listings - until she has that completed there was so sense in us continuing the conversation.
+0060h000017Hh50AAC,0010h00001ZJPoiAAH,TRUE,FALSE,New Business,Healthcare,7/3/2019,Closed Lost,Customer Stopped Responding,,,Had an initial call with him and then stopped responding to emails and out reach.
+0060h000018l6UWAAY,001E000001cEPpoIAG,TRUE,FALSE,New Business,Healthcare,7/3/2019,Closed Lost,No Show,,,Prospect never showed for FPB after Trade Show
+0060h000018NDmFAAW,001E000001cEPqhIAG,TRUE,FALSE,New Business,Healthcare,7/2/2019,Closed Lost,Other (Explain),,,5 locations only
+0060h000018NjkgAAC,0010L00001qXBUHQA4,TRUE,FALSE,New Business,Healthcare,7/1/2019,Closed Lost,No Show,,,No Show and needs to go to a new BDR.
+0060h000018OQQHAA4,0010h00001awbj9AAA,TRUE,TRUE,New Business,Healthcare,6/28/2019,Closed Won,Customer/Partner Referral,,,This was opportunity was a referral from Nova Health (Kristine Rice) - the main reason she referred us was the great customer service that Brady was providing - Spoke to Colin one of the founder and took him through a demo - the main driving force behind looking to reputation was negative reviews for their particular industry of addiction treatment - Colin and Debi (another champion) saw a ton of value in the platform - had two follow up calls to answer additional questions and some contract negotiations - Brightview and Nova are also part of a much larger group so this is an opportunity land and expand.
+0060h000018MiBDAA0,001E000001EqEAPIA3,TRUE,FALSE,New Business,Healthcare,6/27/2019,Closed Lost,Delayed Opportunity,,,said this is all very new to them and at the earliest they would look again in OCT
+0060h000018Nm1dAAC,0010h00001awFMcAAM,TRUE,FALSE,New Business,Healthcare,6/27/2019,Closed Lost,Locked in Contract,,Binary Fountain,"Allie got back to me that at the same time our conversations were happening, the ops team was signing an agreement with Binary Fountain and potentially Yext. She said they went with Binary Fountain because of their relationship with Press Ganey, for marketing tools, which is concerning to her because marketing wasn't part of the convo. She is frustrated, but can't do anything about it at this time. She wants to reconnect in the spring to take over from ops."
+0060h000018NPXTAA4,0010h00001awA6UAAU,TRUE,TRUE,New Business,Healthcare,6/26/2019,Closed Won,Customer/Partner Referral,,Reputation.com,"Date of when they first heard about us or when we first started reaching out
+April 29th
+
+How they heard about us
+Jennie used to use Chatmeter at AMITA Health and loved us. So, when she went to Nothwest Healthcare she wanted to ditch Rep.com and come to us. 
+
+Number of pitches throughout sales cycle
+1 - Pitch as a refresher
+
+Titles of Champion and Decision Maker
+Digital Strategic Marketing Manager
+Signer was COO, but we didn't need to meet him. He just signs big agreements. 
+
+Favorite Chatmeter products
+All in one dash for rep management and listings are WAY better than Rep.com
+
+State if the contact ever went dark, how long, and how they came back (BDR got them back on, requested a demo)
+Never went dark
+
+Any marketing content downloads (case study, downloads, webinars, etc.)
+Web form filled out on 4/29 and then registered for webinar, Uncovering Patient Experience Blind Spot Webinar - May 2019
+
+Participation from other Chatmeter departments that assisted in the close 
+Tracy and Ally were on a call to start the conversation around what we need from her for their listings to make the transition smooth. 
+
+Any hurdles the contact had to overcome on their side to sign the contract
+Yes, their legal took forever. They pushed back on the auto-renewal stopping it at 3 years. Then it was a week process for every little adjustment. 
+
+Length of sales cycle
+About 2 months
+
+Competitors won against
+Rep.com - She had to get them out of Rep agreement because their 30 notice date had past."
+0060h000018OPk1AAG,0010h00001Xn6a8AAB,TRUE,FALSE,New Business,Healthcare,6/26/2019,Closed Lost,Locked in Contract,,Reputation.com,With Rep.com until at least Nov 2019
+0060h000018NlbzAAC,0010h00001awFIvAAM,TRUE,FALSE,New Business,Healthcare,6/25/2019,Closed Lost,Lost to Competitor,"Local Manhattan, KS Marketing Agency",,"She wanted all tools under one roof, but ended up going with an agency so wouldn't have to manage it."
+0060h000018NlzDAAS,0010L00001muty9QAA,TRUE,FALSE,New Business,Healthcare,6/12/2019,Closed Lost,No Show,,,No show and did not reschedule yet
+0060h000018lBC5AAM,001E000000jC7RFIA0,TRUE,FALSE,New Business,Healthcare,6/6/2019,Closed Lost,Customer Changed Priorities,,Yext,Spoke to Richard - there doing a pilot with Birdeye and that's ended and the CEO has put a hold on everything for now - seems like this has dropped on the priority list - nothing has changed on his end and asked for me to reach back in a month - shoot for after the july 4th holiday
+0060h000018NKLyAAO,0010h00001Xn6Y8AAJ,TRUE,FALSE,New Business,Healthcare,6/3/2019,Closed Lost,No Show,,,No show - closing opp for now
+0060h000017Ip8OAAS,0010h00001Xn6YcAAJ,TRUE,TRUE,New Business,Healthcare,5/31/2019,Closed Won,Product Feature: All-In-One Dash,,,"*Date of when they first heard about us or when we first started reaching out - Started reaching out to their agency, Jarrard Phillips & Hancock just before HMPS April 2018.
+*How they heard about us - Through that agency
+*If trade show - BDR meeting - Jonathan initially at HMPS to their agency but never met at the show.
+*Number of pitches throughout sales cycle - About FIVE
+*Titles of Champion and Decision Maker - Nichole Monica (Dir of Digital Marketing)
+*Favorite Chatmeter products- Platform + LLM + Yelp partnership
+
+Entire LIFECYCLE: Jonathan started reaching out to Jerard Phillips Cate and Hancock back in April for a HMPS in Utah in 2018. They are a healthcare marketing agency and I finally met with them in May 2018. We continued to stay in touch and had a follow up meeting in July where they told me that they are looking at Chatmeter for one of their clients Mount Nittany Health.   
+I knew they were pitching that healthcare system and they were selling them on using a platform that is calculating all time star ratings and reviews. Had a couple of followup meetings - They then went dark in the November timeframe. 
+January 2019 - Kira from Mount Nittany reached out to me to ask to get a demo of Chatmeter for her and for her coworkers. I pitched them in January 2019 and sent over all of the follow ups. They said they had to make sure they had budget for it and finally in March they said they were going to move forward. I sent them the service agreement in March where it took over two months for it to go through internal executive meetings, approvals & more meetings. 
+Throughout all this I consistently stayed on top of Kira to ensure that this continues to move forward and finally closed end of May.
+
+* Length of sales cycle - One Year"
+0060h000018NfgrAAC,0010L00001qXBUYQA4,TRUE,FALSE,New Business,Healthcare,5/30/2019,Closed Lost,Budget,,,Budget was a concern from the beginning of the first meeting. Kristin got back to me in email - wouldn't answer repeated calls and respond to emails - that they aren't in a place to purchase right now. Should be followed up with next quarter
+0060h000018NlzSAAS,001E000001fq9dXIAQ,TRUE,FALSE,New Business,Healthcare,5/29/2019,Closed Lost,No Show,,Yext,
+0060h000018kyu3AAA,0010L00001rIv7jQAC,TRUE,FALSE,New Business,Healthcare,5/28/2019,Closed Lost,Locked in Contract,,Reputation.com,Locked in with Rep.com through Feb 2020
+0060h000017JkCdAAK,001E000001fq9dXIAQ,TRUE,FALSE,New Business,Healthcare,5/24/2019,Closed Lost,Delayed Opportunity,,Yext,delayed
+0060h000018NTWgAAO,0010L00001n78u0QAA,TRUE,FALSE,New Business,Healthcare,5/22/2019,Closed Lost,Locked in Contract,,,Parent company Sonova launched with Yext in Nov and they make tool decisions on a global level.
+0060h000018NSr9AAG,0010h00001Xn6bJAAR,TRUE,FALSE,New Business,Healthcare,5/22/2019,Closed Lost,Budget,,,Erin reached to Cam and told them they don't have the budget to add anything like this this year.
+0060h000017IWC1AAO,0010h00001Y11bzAAB,TRUE,FALSE,New Business,Healthcare,5/16/2019,Closed Lost,Budget,,,Emailed Cam back and said that shes tried to find budget from her boss Cheryl but they don't have any spare money right now. Asked to connect in early 2020
+0060h000018l4mKAAQ,0010L00001rIvGMQA0,TRUE,FALSE,New Business,Healthcare,5/14/2019,Closed Lost,No Show,,,No showed twice - a month old
+0060h000017EZ9eAAG,001E000000jBPuoIAG,TRUE,FALSE,New Business,Healthcare,5/13/2019,Closed Lost,Stayed with Competitor,,,"There literally just finished the implementation from 2018 and starting to use it - they aren't going to make the switch - see email for more details
+
+Ryan - we are going to stick with Rep.com for now. We have invested too much time and energy thus far and are finally about to leverage the tools as we had originally anticipated. Check in with me at the end of this year and that will give us enough time to consider an alternative vendor prior to our June 1 renewal date."
+0060h000016yrdIAAQ,0010h00001Xn6XbAAJ,TRUE,FALSE,New Business,Healthcare,5/13/2019,Closed Lost,Customer Changed Priorities,,Reputation.com,"Hospital changed focus to new website and it is consuming all their focus - they don't want to talk locations pages or replacing rep.com for at least the next 6-9 months, but we are welcome to keep in touch and keep the relationship going during the meantime."
+0060h000018MibsAAC,0010L00001qYIIWQA4,TRUE,FALSE,New Business,Healthcare,5/8/2019,Closed Lost,Didn't See Value,,,"They work with an agency and are not concerned about managing, or even monitoring, Local Reputation in house. She forwarded my information to their agency, but would not do anything else."
+0060h000016yvl5AAA,0010L00001oQzXZQA0,TRUE,FALSE,New Business,Healthcare,5/6/2019,Closed Lost,No Show,,,
+0060h000018l7gkAAA,0010L00001muttJQAQ,TRUE,FALSE,New Business,Healthcare,5/3/2019,Closed Lost,Delayed Opportunity,,Reputation.com,"Tracey wrote that she is interested, but now isn't the right time. She is ""at capacity with now new projects"". She wants to pick things up in October."
+0060h000016yq7FAAQ,0010L00001qXXCfQAO,TRUE,FALSE,New Business,Healthcare,5/2/2019,Closed Lost,Stayed with Competitor,Podium/Yext,Yext,"After many attempts of reconnecting, she finally responded to my email - she said that they were going to stay put with her current vendors for the time being - Podium/Yext/Hootsuite - looking to get some additional feedback because moving forward Yelp was going to be a priority."
+0060L00000kO7ZNQA0,0010L00001mReW9QAK,TRUE,FALSE,New Business,Healthcare,5/1/2019,Closed Lost,Customer Stopped Responding,,,"happens over and over with this lady where she stops responding, literraly for 2 years."
+0060h000016z0OWAAY,0010L00001jAd5KQAS,TRUE,FALSE,New Business,Healthcare,4/30/2019,Closed Lost,Non Decision Maker,,,"friend was screening her cell phone, she obv doesnt want to talk to me.  seemed like shakey ground and i dont think she has any power."
+0060h000017HXfTAAW,001E000001cEPW3IAO,TRUE,FALSE,New Business,Healthcare,4/9/2019,Closed Lost,SE Turnover,,Reputation.com,
+0060h000016zP4GAAU,001E000001hQLt1IAG,TRUE,FALSE,New Business,Healthcare,4/3/2019,Closed Lost,Budget,,,"No budget and no timeline at this time,  BDR staying on top"
+0060h000017JwvbAAC,0010h00001Xn6ZrAAJ,TRUE,FALSE,New Business,Healthcare,4/3/2019,Closed Lost,No Show,,,
+0060h000017JhzkAAC,0010h00001Xn6bOAAR,TRUE,FALSE,New Business,Healthcare,4/3/2019,Closed Lost,Non Decision Maker,,,"wrong person, cam is trying for someone else"
+0060h000016zF7XAAU,0010L00001idaURQAY,TRUE,FALSE,New Business,Healthcare,4/2/2019,Closed Lost,Reseller Opportunity,,,tanias reseller canablized this deal
+0060h000017HMr8AAG,0010L00001mQiRxQAK,TRUE,FALSE,New Business,Healthcare,4/2/2019,Closed Lost,Customer Stopped Responding,,Yext,Assigned to BDR to get on for an appointment
+0060h000017I2fTAAS,001E000001EqDwpIAF,TRUE,FALSE,New Business,Healthcare,4/2/2019,Closed Lost,Customer Stopped Responding,,,Moving to closed and have BDR on her to get backon
+0060h000016z5gBAAQ,0010h00001Zp7aCAAR,TRUE,FALSE,New Business,Healthcare,3/31/2019,Closed Lost,Other (Explain),,,This was an RFP that we did last minute months ago - finally heard back the other day that they selected another vendor but did not disclose who or why.
+0060h000017Hl6XAAS,0010h00001Y0eunAAB,TRUE,FALSE,New Business,Healthcare,3/28/2019,Closed Lost,Customer Stopped Responding,,,Stopped responding after they said they need to look at their 2 year agreement with Yext. They are interested when their agreements come up.
+0060h000016yfwoAAA,001E000001dr3r9IAA,TRUE,FALSE,New Business,Healthcare,3/27/2019,Closed Lost,Non Decision Maker,,,"They are currently with Influence Health - even though she liked the platform, she has no decision-making process at all and she has no idea when their contract is up - need to find the right person and when their contract comes up for renewal."
+0060h000017HNJCAA4,0010h00001Y0dv3AAB,TRUE,FALSE,New Business,Healthcare,3/25/2019,Closed Lost,SE Turnover,,,Spent 2 months not getting back to me then finally said they went with someone else.  Probably Ella took this one to Brandify
+0060h000017JJ47AAG,0010h00001ZKbsKAAT,TRUE,FALSE,New Business,Healthcare,3/22/2019,Closed Lost,Customer Stopped Responding,,,Inherited this account - did not get anywhere - transferring to BDR's
+0060h000017K0wiAAC,0010h00001Xn6a8AAB,TRUE,FALSE,New Business,Healthcare,3/22/2019,Closed Lost,No Show,,Reputation.com,Over a month to reschedule and get back on - closing for now
+0060h000017JIMOAA4,001E000001EqF3pIAF,TRUE,FALSE,New Business,Healthcare,3/21/2019,Closed Lost,No Show,,,Prospect never showed up for the first presentation - Greg tried to get her back on but never responded.
+0060h000017IhDZAA0,001E000001cEPpoIAG,TRUE,FALSE,New Business,Healthcare,3/21/2019,Closed Lost,Customer Stopped Responding,,,Meet with them at Digital Transformation - had an interest in learning more about Chatmeter but reached out many times but never responded back.
+0060h000017IhD0AAK,001E000001cEPlWIAW,TRUE,FALSE,New Business,Healthcare,3/21/2019,Closed Lost,Customer Stopped Responding,,,Met with David at Digital Transformation - was very interested in at the time to learn more about us and then things just didn't click after that - going to have the BDRs reach out - suggest giving this to Cam because he also has a Boston connection.
+0060h000017JJy5AAG,0010h00001ZKcGQAA1,TRUE,FALSE,New Business,Healthcare,3/21/2019,Closed Lost,Customer Stopped Responding,,,Originally spoke with Petrina at Omnichannel - she wasn't responsible for reputation but worked very closely with that team. She did make an introduction but her colleagues never responded to me at all - have the BDRs go after it.
+0060h000017JksnAAC,0010h00001Y0HS3AAN,TRUE,FALSE,New Business,Healthcare,3/20/2019,Closed Lost,Customer Stopped Responding,,,Sent to Jonathan to keep trying and get proper contact info
+0060h000017J3ikAAC,0010L00001owgN0QAI,TRUE,FALSE,New Business,Healthcare,3/15/2019,Closed Lost,SE Turnover,,Yext,
+0060h000017J3iaAAC,001E000000qJiBQIA0,TRUE,FALSE,New Business,Healthcare,3/15/2019,Closed Lost,SE Turnover,,,
+0060h000017JX5XAAW,0010h00001ZKhNVAA1,TRUE,FALSE,New Business,Healthcare,3/15/2019,Closed Lost,Price/Budget,,,Charles completely pulled a 180 on us - he loves the platform but can't justify the CM minimum right now - we would need to be at $500 per month to even consider it - told him that I would never get that approved.
+0060h000017JJheAAG,0010h00001Xn6ZhAAJ,TRUE,FALSE,New Business,Healthcare,3/15/2019,Closed Lost,SE Turnover,,,
+0060h000017JbBEAA0,0010L00001id9M5QAI,TRUE,FALSE,New Business,Healthcare,3/13/2019,Closed Lost,Locked in Contract,,Reputation.com,Contract with Rep.com is up in September. Couldn't break it - needs to go on hold until July/August when she wants to switch.
+0060h000016yoZyAAI,0010h00001XmiVLAAZ,TRUE,FALSE,New Business,Healthcare,3/12/2019,Closed Lost,Delayed Opportunity,,,"Vendors are on freeze until they complete the 3 hospital merger. But, they are interested in rep management once that clears up."
+0060h000017HkEUAA0,0010h00001Xn6auAAB,TRUE,FALSE,New Business,Healthcare,3/6/2019,Closed Lost,No Show,,,
+0060h000017K6BdAAK,001E000000jC7NfIAK,TRUE,TRUE,New Business,Healthcare,2/28/2019,Closed Won,Price,,Reputation.com,
+0060h000016ypFBAAY,0010h00001ZozDqAAJ,TRUE,TRUE,New Business,Healthcare,2/28/2019,Closed Won,Product Feature: All-In-One Dash,,,This was a referral from Hulin Health
+0060h000017IwfOAAS,0010L00001qXBUYQA4,TRUE,FALSE,New Business,Healthcare,2/27/2019,Closed Lost,No Show,,,
+0060h000017J8rUAAS,0010h00001Xn6YqAAJ,TRUE,FALSE,New Business,Healthcare,2/27/2019,Closed Lost,SE Turnover,,,Ella Left and the oppty is dead. Looking to reconnect
+0060h000017IAO1AAO,0010h00001Y0TJzAAN,TRUE,FALSE,New Business,Healthcare,2/25/2019,Closed Lost,Customer Stopped Responding,,,said she wanted to talk to her partner and hasnt responded since.
+0060h000017Jlv6AAC,0010h00001ZKmKIAA1,TRUE,TRUE,New Business,Healthcare,2/21/2019,Closed Won,Product Feature: All-In-One Dash,,Birdeye,Jim - the interim CMO for Pure Dental is very impressed with Chatmeter's flexibility and completeness.  He is also interim CMO at Sonny's BBQ
+0060h000017H0EJAA0,001E000001cEQGpIAO,TRUE,FALSE,New Business,Healthcare,2/14/2019,Closed Lost,Customer Stopped Responding,,Binary Fountain,wont return emails or vmails
+0060h000017IqkJAAS,0010L00001mutkwQAA,TRUE,FALSE,New Business,Healthcare,2/13/2019,Closed Lost,Delayed Opportunity,,,Need to go back to the main campus - Or back to Suknatika for a referral - she is on an extended holiday
+0060h000017HtS3AAK,0010L00001oQzXZQA0,TRUE,FALSE,New Business,Healthcare,2/8/2019,Closed Lost,Customer Stopped Responding,,,Kristy stopped responding after our meeting to explore Chatmeter in December. Engaging BDRs to help get back on line
+0060h000017JHpPAAW,0010L00001j9uIWQAY,TRUE,FALSE,New Business,Healthcare,2/6/2019,Closed Lost,Delayed Opportunity,,,Not the right people.  Need to go through corporate.
+0060h000017J51WAAS,0010h00001Xn6XCAAZ,TRUE,FALSE,New Business,Healthcare,2/5/2019,Closed Lost,Budget,,,"No budget - wants to reconnect to try and budget for next fiscal that start June, 1st, 2019"
+0060h000017IvLBAA0,0010h00001Xn6bJAAR,TRUE,FALSE,New Business,Healthcare,2/4/2019,Closed Lost,Budget,,,Budget has been spent - she wants to reconnect in August 2019 because that's when they'll start budgeting for 2020
+0060h000017IpLrAAK,0010h00001Y0cUmAAJ,TRUE,TRUE,New Business,Healthcare,2/1/2019,Closed Won,Product Feature: All-In-One Dash,,Other,Buyer's Journey (Ryan to backfill)
+0060h000010afqTAAQ,001E000000gN6ilIAC,TRUE,TRUE,New Business,Healthcare,1/31/2019,Closed Won,Product Feature: All-In-One Dash,,,
+0060h000017I66jAAC,001E000000qJhzSIAS,TRUE,FALSE,New Business,Healthcare,1/30/2019,Closed Lost,Locked in Contract,,Reputation.com,In contract with Rep and Yext till end of 2019.  Will revisit in a few months
+0060h000016Zk6NAAS,0010h00001Xn6YoAAJ,TRUE,FALSE,New Business,Healthcare,1/28/2019,Closed Lost,Customer Changed Priorities,,,"decided to go another route this year, so they won’t be needing your services. I asked her what route they decided and she would not say."
+0060h000016a5b0AAA,0010h00001Xn6ZUAAZ,TRUE,FALSE,New Business,Healthcare,1/25/2019,Closed Lost,Delayed Opportunity,,,"She cancelled our meeting ""till further notice"""
+0060h000017IwxrAAC,0010L00001qXBUUQA4,TRUE,FALSE,New Business,Healthcare,1/24/2019,Closed Lost,No Show,,Yext,
+0060h000017GiY0AAK,001E000001UlWZ3IAN,TRUE,FALSE,New Business,Healthcare,1/22/2019,Closed Lost,Delayed Opportunity,,,One location in her control
+0060h000017H5OJAA0,0010L00001qXBUXQA4,TRUE,FALSE,New Business,Healthcare,1/16/2019,Closed Lost,Customer Stopped Responding,,,Amy stopped responding to my emails - I think that this is not a priority currently. Following up Monthly
+0060h000016aDCXAA2,0010L00001qXBUHQA4,TRUE,FALSE,New Business,Healthcare,1/16/2019,Closed Lost,Customer Stopped Responding,,,Closing out for now - Chris is after Becca and her boss to re-engage.
+0060h000017H2x8AAC,001E000001cEQ5tIAG,TRUE,FALSE,New Business,Healthcare,1/16/2019,Closed Lost,Delayed Opportunity,,Influence Health,Mauricio working on setting a meeting with AbbyMcNeil
+0060h000017HMqyAAG,0010h00001Xn6ZfAAJ,TRUE,FALSE,New Business,Healthcare,1/16/2019,Closed Lost,Customer Stopped Responding,,BrightLocal,Getting a BDR to get them back on.
+0060h000017H5NVAA0,0010h00001Xn6XEAAZ,TRUE,FALSE,New Business,Healthcare,1/16/2019,Closed Lost,Delayed Opportunity,,,Need to get back on
+0060h000017HMqFAAW,0010h00001ZJGtNAAX,TRUE,FALSE,New Business,Healthcare,1/16/2019,Closed Lost,Customer Stopped Responding,,,Sending to a BDR to book
+0060h000017HgeFAAS,0010h00001Xn6Z7AAJ,TRUE,FALSE,New Business,Healthcare,1/15/2019,Closed Lost,Delayed Opportunity,,,Valerie replied in email to let me know that her husband had a heart attack and the budget it frozen until the next fiscal in July - we can follow up in May to try and get on the next budget. She said she see value and wants to keep in touch.
+0060h000017GsDQAA0,0010h00001ZJ1cTAAT,TRUE,FALSE,New Business,Healthcare,1/15/2019,Closed Lost,Customer Stopped Responding,,,Prospect simply stop responding.
+0060h000017GfR6AAK,0010L00001owgN0QAI,TRUE,FALSE,New Business,Healthcare,1/14/2019,Closed Lost,Customer Stopped Responding,,Yext,Tricia let me know before the new year that her budget was cut and not sure able to move forward... stopped responding after that
+0060h000017Io64AAC,0010h00001XmmecAAB,TRUE,TRUE,New Business,Healthcare,1/11/2019,Closed Won,Product Feature: Reputation,,,(not filled in by SE)
+0060h000017IniCAAS,001E000001cEQNhIAO,TRUE,FALSE,New Business,Healthcare,1/10/2019,Closed Lost,No Show,,,
+0060h000017GMBWAA4,0010h00001Xn6XbAAJ,TRUE,FALSE,New Business,Healthcare,1/8/2019,Closed Lost,Locked in Contract,,Reputation.com,Spoke with Michael on his mobile. Rep contract is up in July. They are going to evaluate us 90 prior to that. Said we should reconnect end of March to get started again.
+0060h000017GxywAAC,0010h00001Xn6XXAAZ,TRUE,FALSE,New Business,Healthcare,1/7/2019,Closed Lost,Locked in Contract,,Binary Fountain,Recently renewed with Binary Fountain and Yext. Prospect Medical Holdings is the parent company- they want everyone on the same solution. Daphne has been there 6 weeks- did not know exact dates of contracts but said to reach out in Sept.
+0060h000017GfVDAA0,0010L00001rGVVeQAO,TRUE,FALSE,New Business,Healthcare,1/4/2019,Closed Lost,Corporate Takeover,,,They are in the year long process of being acquired by LifePoint Health and can't look at CM until after that.
+0060h000017HkMfAAK,0010h00001Xn6ZqAAJ,TRUE,FALSE,New Business,Healthcare,1/3/2019,Closed Lost,Budget,,,2019 budget is capped but really wants to revisit for 2020 budget which starts convo in August. BDR to follow up in July to make sure we don't miss window.
+0060h000017HN84AAG,0010h00001Xn6bJAAR,TRUE,FALSE,New Business,Healthcare,1/3/2019,Closed Lost,Delayed Opportunity,,,Opp got stuck- Erin couldn't get Diane on call around holidays and have been too busy. Putting BDR on it to get things moving again
+0060h000017IiOQAA0,001E000001cEPsPIAW,TRUE,FALSE,New Business,Healthcare,1/2/2019,Closed Lost,Delayed Opportunity,,Rio SEO,Delayed until July when she'll be vetting for next year. Currently with Rio for Listings and NRC for reputation. Putting reschedule task for BDR for July
+0060h000017I3D1AAK,001E000000qJiNLIA0,TRUE,FALSE,New Business,Healthcare,12/31/2018,Closed Lost,Stayed with Competitor,Yext and Sprinklr,Yext,Stayed with Competitor - Yext and Sprinklr
+0060h000017GVc7AAG,001E000001fq9dXIAQ,TRUE,FALSE,New Business,Healthcare,12/27/2018,Closed Lost,Customer Stopped Responding,,Yext,Had a great call with Andy and then they had a merger and was never able to get a hold of him after that...
+0060h000017GOETAA4,001E000001fq9fmIAA,TRUE,FALSE,New Business,Healthcare,12/27/2018,Closed Lost,Delayed Opportunity,,,Delayed opportunity due to holidays.
+0060h000017GaBXAA0,0010h00001Y0YRBAA3,TRUE,FALSE,New Business,Healthcare,12/27/2018,Closed Lost,Customer Stopped Responding,,,Josh stopped responding ... need to get him back on the phone.
+0060h000017GXiZAAW,0010h00001Y0qE7AAJ,TRUE,FALSE,New Business,Healthcare,12/27/2018,Closed Lost,Lost to Competitor,,Wouldn't Say,Pricing
+0060h000017Gt95AAC,0010L00001rJ1Y0QAK,TRUE,FALSE,New Business,Healthcare,12/19/2018,Closed Lost,No Show,,ReviewPush,
+0060h000017IBIgAAO,001E000001csDBWIA2,TRUE,FALSE,New Business,Healthcare,12/19/2018,Closed Lost,No Show,,,
+0060h000017GXuBAAW,0010L00001mutrfQAA,TRUE,FALSE,New Business,Healthcare,12/18/2018,Closed Lost,No Show,,,
+0060h000017GqrrAAC,0010L00001omxHXQAY,TRUE,FALSE,New Business,Healthcare,12/18/2018,Closed Lost,Delayed Opportunity,,Reputation.com,
+0060h000017GdADAA0,0010h00001Xn6b6AAB,TRUE,FALSE,New Business,Healthcare,12/18/2018,Closed Lost,No Show,,,
+0060h000017GfMkAAK,0010h00001Y11bzAAB,TRUE,FALSE,New Business,Healthcare,12/18/2018,Closed Lost,No Show,,,
+0060h000017HNlaAAG,0010h00001Xn6bBAAR,TRUE,FALSE,New Business,Healthcare,12/17/2018,Closed Lost,No Show,,,
+0060h000017GNR6AAO,0010h00001Y0bv5AAB,TRUE,TRUE,New Business,Healthcare,12/17/2018,Closed Won,Product Feature: All-In-One Dash,,,Reason Given: Features
+0060h000017H1cbAAC,001E00000169TDnIAM,TRUE,FALSE,New Business,Healthcare,12/10/2018,Closed Lost,Delayed Opportunity,,Wouldn't Say,
+0060h000017GUQmAAO,0010h00001Xn6XBAAZ,TRUE,FALSE,New Business,Healthcare,12/10/2018,Closed Lost,No Show,,,
+0060h000017HLbiAAG,0010h00001ZJGF3AAP,TRUE,FALSE,New Business,Healthcare,12/10/2018,Closed Lost,Price/Budget,,SweetIQ,
+0060h000017Hry8AAC,001E000001hQLhpIAG,TRUE,FALSE,New Business,Healthcare,12/7/2018,Closed Lost,Delayed Opportunity,,Birdeye,
+0060h000017HOPHAA4,0010h00001Xn6YgAAJ,TRUE,FALSE,New Business,Healthcare,12/7/2018,Closed Lost,Lost to Competitor,,Yext,
+0060h000017H83DAAS,0010h00001Xn6ZfAAJ,TRUE,FALSE,New Business,Healthcare,12/3/2018,Closed Lost,Delayed Opportunity,,BrightLocal,
+0060h000017GUVmAAO,0010L00001mutrBQAQ,TRUE,FALSE,New Business,Healthcare,12/1/2018,Closed Lost,Customer Stopped Responding,,,
+0060h000017HQ5oAAG,0010h00001Xn6Z8AAJ,TRUE,TRUE,New Business,Healthcare,11/30/2018,Closed Won,Price,,,
+0060h000017H0JnAAK,0010h00001Y0cMiAAJ,TRUE,TRUE,New Business,Healthcare,11/30/2018,Closed Won,Product Feature: Reputation,,,
+0060h000017HNdsAAG,0010h00001Y0eunAAB,TRUE,FALSE,New Business,Healthcare,11/30/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016d7gpAAA,001E000001EqEEiIAN,TRUE,FALSE,New Business,Healthcare,11/29/2018,Closed Lost,Delayed Opportunity,,Yext,
+0060h000017GOAhAAO,0010L00001j9uIWQAY,TRUE,FALSE,New Business,Healthcare,11/28/2018,Closed Lost,No Show,,,
+0060h000017GN3rAAG,001E000001cEPfLIAW,TRUE,FALSE,New Business,Healthcare,11/28/2018,Closed Lost,No Show,,,
+0060h000017GOYsAAO,001E000001fq9fiIAA,TRUE,FALSE,New Business,Healthcare,11/28/2018,Closed Lost,No Show,,Reputation.com,
+0060h000017GNRkAAO,0010h00001XmdxFAAR,TRUE,FALSE,New Business,Healthcare,11/28/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016e1ngAAA,0010h00001Xn6bLAAR,TRUE,FALSE,New Business,Healthcare,11/28/2018,Closed Lost,Lost to Competitor,,Binary Fountain,Reason Given: Other (Put in Notes)
+0060h000016dxLpAAI,0010h00001Xo3x9AAB,TRUE,FALSE,New Business,Healthcare,11/27/2018,Closed Lost,Delayed Opportunity,,,
+0060h000017Gsg3AAC,0010h00001Y0TJzAAN,TRUE,FALSE,New Business,Healthcare,11/27/2018,Closed Lost,Customer Stopped Responding,,,stopped responding
+0060h000017GTjeAAG,0010L00001joDfhQAE,TRUE,FALSE,New Business,Healthcare,11/26/2018,Closed Lost,Customer Stopped Responding,,,
+0060h000016aIISAA2,0010L00001qYIIWQA4,TRUE,FALSE,New Business,Healthcare,11/26/2018,Closed Lost,Customer Stopped Responding,,,
+0060h000017GaCVAA0,0010L00001owlroQAA,TRUE,FALSE,New Business,Healthcare,11/26/2018,Closed Lost,Customer Stopped Responding,,,
+0060h000016e54sAAA,001E000000gN39vIAC,TRUE,FALSE,New Business,Healthcare,11/26/2018,Closed Lost,Delayed Opportunity,,,
+0060h000017GXiyAAG,001E000001cEPmcIAG,TRUE,FALSE,New Business,Healthcare,11/26/2018,Closed Lost,Lost to Competitor,,Binary Fountain,Reason Given: Features
+0060h000016ZfpbAAC,0010h00001Xn6YjAAJ,TRUE,FALSE,New Business,Healthcare,11/26/2018,Closed Lost,Lost to Competitor,,Reputation.com,lost to reputation.com signed a 3 years deal
+0060h000016dIszAAE,0010h00001Xn6ZGAAZ,TRUE,FALSE,New Business,Healthcare,11/26/2018,Closed Lost,Delayed Opportunity,,Binary Fountain,
+0060h000017GU1dAAG,0010h00001Xn6XiAAJ,TRUE,FALSE,New Business,Healthcare,11/26/2018,Closed Lost,Customer Stopped Responding,,,
+0060h000017GpEFAA0,0010L00001muu9oQAA,TRUE,FALSE,New Business,Healthcare,11/20/2018,Closed Lost,Customer Stopped Responding,,,
+0060h000017GWTMAA4,0010L00001mutslQAA,TRUE,FALSE,New Business,Healthcare,11/20/2018,Closed Lost,Customer Stopped Responding,,,
+0060h000017H0jGAAS,0010L00001rIv7SQAS,TRUE,FALSE,New Business,Healthcare,11/20/2018,Closed Lost,Customer Stopped Responding,,,
+0060h000017GPfnAAG,001E000001cEPowIAG,TRUE,FALSE,New Business,Healthcare,11/20/2018,Closed Lost,Delayed Opportunity,,,
+0060h000017GVBTAA4,0010h00001Y0cNlAAJ,TRUE,FALSE,New Business,Healthcare,11/20/2018,Closed Lost,Customer Stopped Responding,,,
+0060h000017GVSAAA4,0010h00001Y0HQbAAN,TRUE,FALSE,New Business,Healthcare,11/20/2018,Closed Lost,Customer Stopped Responding,,,
+0060h000017HNQDAA4,0010h00001Xn6YJAAZ,TRUE,FALSE,New Business,Healthcare,11/20/2018,Closed Lost,Stayed with Competitor,,Reputation.com,
+0060h000017GUXdAAO,0010h00001Y0YQwAAN,TRUE,FALSE,New Business,Healthcare,11/20/2018,Closed Lost,Customer Stopped Responding,,,
+0060h000017GWtFAAW,0010h00001Y0dy7AAB,TRUE,FALSE,New Business,Healthcare,11/20/2018,Closed Lost,Customer Stopped Responding,,,
+0060h000017HNYiAAO,0010h00001Xn6bAAAR,TRUE,FALSE,New Business,Healthcare,11/20/2018,Closed Lost,Didn't See Value,,,
+0060h000017GTRRAA4,0010h00001Y0e4ZAAR,TRUE,FALSE,New Business,Healthcare,11/20/2018,Closed Lost,Delayed Opportunity,,,
+0060h000017GUTlAAO,0010h00001Xn6bQAAR,TRUE,FALSE,New Business,Healthcare,11/20/2018,Closed Lost,No Show,,,
+0060h000017GqvKAAS,0010h00001Xn6XSAAZ,TRUE,FALSE,New Business,Healthcare,11/20/2018,Closed Lost,Stayed with Competitor,,Reputation.com,
+0060h000017GVBiAAO,0010h00001Y0cTPAAZ,TRUE,FALSE,New Business,Healthcare,11/20/2018,Closed Lost,Customer Stopped Responding,,,
+0060h000017HNftAAG,0010h00001ZJAS7AAP,TRUE,FALSE,New Business,Healthcare,11/20/2018,Closed Lost,Customer Stopped Responding,,,
+0060h000017HNfjAAG,0010h00001ZJAS7AAP,TRUE,FALSE,New Business,Healthcare,11/20/2018,Closed Lost,Customer Stopped Responding,,,
+0060h000017GUTqAAO,0010h00001Xn6auAAB,TRUE,FALSE,New Business,Healthcare,11/19/2018,Closed Lost,No Show,,,
+0060h000017H110AAC,0010L00001qXBUYQA4,TRUE,FALSE,New Business,Healthcare,11/16/2018,Closed Lost,Delayed Opportunity,,,Delayed opp - met at conference to talk in the future.
+0060h000017GTnbAAG,001E000001cEQA1IAO,TRUE,FALSE,New Business,Healthcare,11/14/2018,Closed Lost,Didn't See Value,,,
+0060h000017GTnRAAW,0010L00001mutyAQAQ,TRUE,FALSE,New Business,Healthcare,11/12/2018,Closed Lost,No Show,,,
+0060h000017GSnxAAG,0010h00001XmEa9AAF,TRUE,FALSE,New Business,Healthcare,11/12/2018,Closed Lost,No Show,,,
+0060h000017GWdZAAW,0010h00001Xn6XVAAZ,TRUE,FALSE,New Business,Healthcare,11/12/2018,Closed Lost,Delayed Opportunity,,,
+0060h000017GOaoAAG,0010h00001Y0SlxAAF,TRUE,FALSE,New Business,Healthcare,11/9/2018,Closed Lost,Delayed Opportunity,,,
+0060h000017GJLGAA4,0010L00001mutnLQAQ,TRUE,FALSE,New Business,Healthcare,11/8/2018,Closed Lost,No Show,,,
+0060h000017GOFqAAO,0010L00001oQzW2QAK,TRUE,FALSE,New Business,Healthcare,11/8/2018,Closed Lost,Delayed Opportunity,,Sprinklr,
+0060h000017GxsdAAC,001E000000jC7RFIA0,TRUE,FALSE,New Business,Healthcare,11/8/2018,Closed Lost,Delayed Opportunity,,Yext,
+0060h000016dc7FAAQ,0010h00001XmiVLAAZ,TRUE,FALSE,New Business,Healthcare,11/7/2018,Closed Lost,Customer Stopped Responding,,,
+0060h000016dZOzAAM,0010h00001Xn6YMAAZ,TRUE,FALSE,New Business,Healthcare,11/7/2018,Closed Lost,Customer Stopped Responding,,,
+0060h000017H7QpAAK,0010h00001ZJ99bAAD,TRUE,FALSE,New Business,Healthcare,11/7/2018,Closed Lost,Price/Budget,,,
+0060h000017GWLDAA4,001E000001fq9NLIAY,TRUE,FALSE,New Business,Healthcare,11/6/2018,Closed Lost,No Show,,,
+0060h000017GdIKAA0,0010h00001Xn6b8AAB,TRUE,FALSE,New Business,Healthcare,11/6/2018,Closed Lost,Customer Stopped Responding,,,customer stopped responding
+0060h000017GdonAAC,001E000000jBQmtIAG,TRUE,FALSE,New Business,Healthcare,11/5/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016ZY58AAG,0010h00001Xn6bKAAR,TRUE,FALSE,New Business,Healthcare,11/1/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016e1i4AAA,0010h00001Xn6X7AAJ,TRUE,FALSE,New Business,Healthcare,11/1/2018,Closed Lost,Lost to Competitor,,,Reason Given: Other (Put in Notes)
+0060h000017GURQAA4,0010L00001qXBUXQA4,TRUE,FALSE,New Business,Healthcare,10/31/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016cT3cAAE,0010h00001XmmffAAB,TRUE,FALSE,New Business,Healthcare,10/31/2018,Closed Lost,Delayed Opportunity,,,
+0060h000017GO9JAAW,0010h00001Xn6ZvAAJ,TRUE,FALSE,New Business,Healthcare,10/31/2018,Closed Lost,Customer Stopped Responding,,,"Stopped by booth @ SHSMD, did not respond to follow up after show to schedule audit"
+0060h000016a9y1AAA,001E000001cEQNhIAO,TRUE,FALSE,New Business,Healthcare,10/30/2018,Closed Lost,No Show,,,
+0060h000017GxySAAS,0010h00001Xn6YPAAZ,TRUE,FALSE,New Business,Healthcare,10/26/2018,Closed Lost,Delayed Opportunity,,Reputation.com,
+0060h000016bukMAAQ,0010h00001XmSyYAAV,TRUE,FALSE,New Business,Healthcare,10/24/2018,Closed Lost,Delayed Opportunity,,Binary Fountain,
+0060h000017GPWsAAO,0010L00001mutkwQAA,TRUE,FALSE,New Business,Healthcare,10/23/2018,Closed Lost,Delayed Opportunity,,,
+0060h000017GWRLAA4,0010h00001Y0eunAAB,TRUE,FALSE,New Business,Healthcare,10/22/2018,Closed Lost,No Show,,,
+0060h000017GVD5AAO,0010h00001Y0cUmAAJ,TRUE,FALSE,New Business,Healthcare,10/22/2018,Closed Lost,Delayed Opportunity,Empathic,Other,
+0060h000010ae9YAAQ,0010L00001qWtrLQAS,TRUE,FALSE,New Business,Healthcare,10/19/2018,Closed Lost,Delayed Opportunity,,,
+0060h000017GTI9AAO,001E000001cEPT4IAO,TRUE,FALSE,New Business,Healthcare,10/19/2018,Closed Lost,No Show,,,
+0060h000017GIPTAA4,001E000001UlWZ3IAN,TRUE,FALSE,New Business,Healthcare,10/19/2018,Closed Lost,Delayed Opportunity,,,
+0060h000017GaAZAA0,001E000001cEPWFIA4,TRUE,FALSE,New Business,Healthcare,10/18/2018,Closed Lost,Lost to Competitor,Rep.com,,
+0060h000017GVX2AAO,0010h00001Xn6ZMAAZ,TRUE,FALSE,New Business,Healthcare,10/18/2018,Closed Lost,No Show,,,
+0060h000016csvBAAQ,0010L00001qXBUUQA4,TRUE,FALSE,New Business,Healthcare,10/17/2018,Closed Lost,Customer Stopped Responding,,Yext,
+0060h000017GNi8AAG,001E000000UuGXgIAN,TRUE,FALSE,New Business,Healthcare,10/17/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016ZkB6AAK,0010h00001Xn6XAAAZ,TRUE,FALSE,New Business,Healthcare,10/17/2018,Closed Lost,No Show,,,
+0060h000016aGGwAAM,0010h00001Y0TJzAAN,TRUE,FALSE,New Business,Healthcare,10/17/2018,Closed Lost,No Show,,,
+0060h000016cT0xAAE,0010h00001XmmecAAB,TRUE,FALSE,New Business,Healthcare,10/11/2018,Closed Lost,Customer Not Qualified,,,
+0060h000016dnIuAAI,0010h00001Xn6ZPAAZ,TRUE,FALSE,New Business,Healthcare,10/6/2018,Closed Lost,Reseller Opportunity,,,
+0060h000016bgSGAAY,0010h00001XmEaxAAF,TRUE,FALSE,New Business,Healthcare,10/5/2018,Closed Lost,Price/Budget,,,
+0060h000010bEtPAAU,001E000000xEX3JIAW,TRUE,FALSE,New Business,Healthcare,10/5/2018,Closed Lost,Delayed Opportunity,,Reputation.com,
+0060h000016bu1uAAA,001E000001cEQ5tIAG,TRUE,FALSE,New Business,Healthcare,10/5/2018,Closed Lost,Delayed Opportunity,,Influence Health,
+0060L00000mKjh0QAC,001E000001cEPgiIAG,TRUE,FALSE,New Business,Healthcare,10/5/2018,Closed Lost,Delayed Opportunity,,Reputation.com,
+0060h000016bkezAAA,0010L00001olycfQAA,TRUE,FALSE,New Business,Healthcare,10/4/2018,Closed Lost,No Show,,,
+0060h000016cvQkAAI,001E000001cEPSBIA4,TRUE,FALSE,New Business,Healthcare,10/4/2018,Closed Lost,No Show,,,
+0060h000016d905AAA,0010h00001Xn9jHAAR,TRUE,FALSE,New Business,Healthcare,10/4/2018,Closed Lost,Customer Not Qualified,,,
+0060h000016a64CAAQ,0010L00001rIvGMQA0,TRUE,FALSE,New Business,Healthcare,9/21/2018,Closed Lost,Customer Changed Priorities,,,
+0060h000016aBGNAA2,0010L00001mutrZQAQ,TRUE,FALSE,New Business,Healthcare,9/19/2018,Closed Lost,Delayed Opportunity,,Brandify,
+0060h000016aCMtAAM,001E000000UfccTIAR,TRUE,FALSE,New Business,Healthcare,9/19/2018,Closed Lost,Delayed Opportunity,,Yext,
+0060h000016aCO6AAM,0010h00001Y0RXLAA3,TRUE,FALSE,New Business,Healthcare,9/18/2018,Closed Lost,Customer Changed Priorities,,,
+0060h000010aheUAAQ,001E000001fq9gdIAA,TRUE,FALSE,New Business,Healthcare,9/13/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016dH1XAAU,001E000001cEPrIIAW,TRUE,FALSE,New Business,Healthcare,9/11/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016dua2AAA,001E000000qJi9zIAC,TRUE,FALSE,New Business,Healthcare,9/9/2018,Closed Lost,Reseller Opportunity,,ReviewPush,
+0060h000016cvakAAA,001E000001655I9IAI,TRUE,FALSE,New Business,Healthcare,9/6/2018,Closed Lost,Lost to Competitor,,SOCi,
+0060h000016dckIAAQ,001E000001cEPqjIAG,TRUE,FALSE,New Business,Healthcare,9/6/2018,Closed Lost,No Show,,,
+0060L00000mJpunQAC,001E000001cEPT4IAO,TRUE,FALSE,New Business,Healthcare,9/6/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016c8mUAAQ,001E000001cEQNhIAO,TRUE,FALSE,New Business,Healthcare,9/6/2018,Closed Lost,No Show,,,
+0060h000016c8fxAAA,0010L00001rIvGMQA0,TRUE,FALSE,New Business,Healthcare,9/3/2018,Closed Lost,Delayed Opportunity,,,
+0060L00000h80flQAA,001E000001fq9g3IAA,TRUE,FALSE,New Business,Healthcare,9/3/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016cjJaAAI,0010L00001muu2gQAA,TRUE,FALSE,New Business,Healthcare,8/31/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016d5o2AAA,0010h00001XmwW7AAJ,TRUE,FALSE,New Business,Healthcare,8/31/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016bj6JAAQ,0010h00001XmEjRAAV,TRUE,FALSE,New Business,Healthcare,8/30/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016cHyCAAU,0010L00001qXBUNQA4,TRUE,FALSE,New Business,Healthcare,8/29/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016cfzdAAA,0010L00001oQzXZQA0,TRUE,FALSE,New Business,Healthcare,8/28/2018,Closed Lost,No Show,,,
+0060h000016cFwlAAE,001E000000wO31FIAS,TRUE,FALSE,New Business,Healthcare,8/28/2018,Closed Lost,Customer Stopped Responding,,MOZ,
+0060h000016cnMIAAY,001E000000jBQkJIAW,TRUE,FALSE,New Business,Healthcare,8/18/2018,Closed Lost,SE Turnover,,,
+0060h000016bfdhAAA,001E000001EqFMvIAN,TRUE,FALSE,New Business,Healthcare,8/16/2018,Closed Lost,Delayed Opportunity,,,
+0060L00000h8c1yQAA,001E000000gN3FoIAK,TRUE,FALSE,New Business,Healthcare,8/16/2018,Closed Lost,Delayed Opportunity,,SweetIQ,
+0060L00000jgaxQQAQ,001E000000UfccTIAR,TRUE,FALSE,New Business,Healthcare,8/16/2018,Closed Lost,Delayed Opportunity,,Yext,
+0060h000016ds02AAA,001E000001cEPXeIAO,TRUE,FALSE,New Business,Healthcare,8/16/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016cZtvAAE,0010L00001muteqQAA,TRUE,FALSE,New Business,Healthcare,8/12/2018,Closed Lost,Delayed Opportunity,,Yext,
+0060h000016ctkEAAQ,0010h00001QLaOQAA1,TRUE,TRUE,New Business,Healthcare,8/10/2018,Closed Won,Price,,Binary Fountain,
+0060h000016d2k8AAA,001E000001EqEEiIAN,TRUE,FALSE,New Business,Healthcare,8/3/2018,Closed Lost,Delayed Opportunity,,Yext,
+0060L00000mJofpQAC,0010L00001jln2sQAA,TRUE,FALSE,New Business,Healthcare,7/31/2018,Closed Lost,SE Turnover,,,
+0060L00000mIyqKQAS,0010L00001qXNx0QAG,TRUE,FALSE,New Business,Healthcare,7/31/2018,Closed Lost,Delayed Opportunity,,Yext,
+0060h000016cnR0AAI,001E000001cEPrwIAG,TRUE,FALSE,New Business,Healthcare,7/31/2018,Closed Lost,SE Turnover,,,
+0060L00000mJJxLQAW,0010L00001qZaOwQAK,TRUE,TRUE,New Business,Healthcare,7/27/2018,Closed Won,Product Feature: Listings,,,
+0060h000016cFWwAAM,0010h00001XmdxFAAR,TRUE,FALSE,New Business,Healthcare,7/21/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016dDW9AAM,0010L00001qXXCfQAO,TRUE,FALSE,New Business,Healthcare,7/20/2018,Closed Lost,Delayed Opportunity,,Yext,
+0060L00000mJZ8GQAW,001E000000qJi9zIAC,TRUE,FALSE,New Business,Healthcare,7/10/2018,Closed Lost,Non Decision Maker,,ReviewPush,
+0060h000016bVwpAAE,001E000001csDBWIA2,TRUE,FALSE,New Business,Healthcare,7/10/2018,Closed Lost,No Show,,,
+0060h000016brmuAAA,0010L00001j9uIWQAY,TRUE,FALSE,New Business,Healthcare,7/7/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016cgWZAAY,0010h00001XmwW7AAJ,TRUE,FALSE,New Business,Healthcare,7/2/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016brmVAAQ,0010L00001j9uIWQAY,TRUE,FALSE,New Business,Healthcare,6/30/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016cWiVAAU,0010L00001mutfnQAA,TRUE,FALSE,New Business,Healthcare,6/30/2018,Closed Lost,Lost to Competitor,,,
+0060h000016cgWoAAI,0010L00001qXBUKQA4,TRUE,FALSE,New Business,Healthcare,6/30/2018,Closed Lost,No Show,,,
+0060L00000mKKCeQAO,001E000000jCN3oIAG,TRUE,TRUE,New Business,Healthcare,6/30/2018,Closed Won,Relationship w/ Sales Rep,,Reputation.com,
+0060h000016bPWwAAM,001E000001gcIVwIAM,TRUE,FALSE,New Business,Healthcare,6/30/2018,Closed Lost,Price/Budget,,,
+0060h000016cFU2AAM,0010h00001XmdxFAAR,TRUE,FALSE,New Business,Healthcare,6/30/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016cRoYAAU,0010h00001XmlGSAAZ,TRUE,FALSE,New Business,Healthcare,6/30/2018,Closed Lost,Reseller Opportunity,,,
+0060h000010b5PZAAY,001E000001cEQOAIA4,TRUE,FALSE,New Business,Healthcare,6/29/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016bgVcAAI,0010L00001mutOxQAI,TRUE,FALSE,New Business,Healthcare,6/28/2018,Closed Lost,Delayed Opportunity,,Binary Fountain,
+0060h000010azHXAAY,001E000001fq9fFIAQ,TRUE,FALSE,New Business,Healthcare,6/28/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016bg8OAAQ,001E000001cEPsPIAW,TRUE,FALSE,New Business,Healthcare,6/26/2018,Closed Lost,Customer Stopped Responding,,Rio SEO,
+0060h000016bfyWAAQ,001E000001cEPgiIAG,TRUE,FALSE,New Business,Healthcare,6/26/2018,Closed Lost,Delayed Opportunity,,Reputation.com,
+0060h000016bdJUAAY,001E000000zJU1jIAG,TRUE,FALSE,New Business,Healthcare,6/24/2018,Closed Lost,Customer Stopped Responding,,Other,
+0060h000016c3LTAAY,001E000001cEPkrIAG,TRUE,FALSE,New Business,Healthcare,6/21/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016bUDHAA2,001E000001cEPdSIAW,TRUE,FALSE,New Business,Healthcare,6/21/2018,Closed Lost,Didn't See Value,,,
+0060h000016blmEAAQ,0010L00001ku7xAQAQ,TRUE,FALSE,New Business,Healthcare,6/18/2018,Closed Lost,Customer Stopped Responding,,,
+0060h000016cYMmAAM,001E000001EqFuXIAV,TRUE,FALSE,New Business,Healthcare,6/13/2018,Closed Lost,No Show,,,
+0060h000016cfnXAAQ,0010L00001rIv7PQAS,TRUE,FALSE,New Business,Healthcare,6/1/2018,Closed Lost,No Show,,,
+0060L00000mKs9pQAC,0010L00001idaUcQAI,TRUE,FALSE,New Business,Healthcare,5/31/2018,Closed Lost,Delayed Opportunity,,,
+0060L00000mJ5p3QAC,0010L00001qYJc5QAG,TRUE,FALSE,New Business,Healthcare,5/31/2018,Closed Lost,Delayed Opportunity,,Yext,
+0060h000010bG9kAAE,001E000000jC9N6IAK,TRUE,TRUE,New Business,Healthcare,5/31/2018,Closed Won,Product Feature: Reputation,,Reputation.com,
+0060h000016bkviAAA,0010h00001XmKnhAAF,TRUE,TRUE,New Business,Healthcare,5/31/2018,Closed Won,Relationship w/ Sales Rep,,,
+0060h000010b6caAAA,001E000001fq9fQIAQ,TRUE,FALSE,New Business,Healthcare,5/29/2018,Closed Lost,Delayed Opportunity,,,
+0060h000016bqiPAAQ,0010h00001XmP4NAAV,TRUE,FALSE,New Business,Healthcare,5/29/2018,Closed Lost,Customer Not Qualified,,,
+0060L00000mIg6hQAC,001E000001cEPSpIAO,TRUE,TRUE,New Business,Healthcare,5/24/2018,Closed Won,Price,,,
+0060L00000mJt2eQAC,001E000001hQLWIIA4,TRUE,TRUE,New Business,Healthcare,5/15/2018,Closed Won,Product Feature: All-In-One Dash,,Other,
+0060h000010ahrdAAA,001E000000jBQr3IAG,TRUE,FALSE,New Business,Healthcare,5/10/2018,Closed Lost,No Show,,,
+0060h000010b7cKAAQ,0010L00001pit0oQAA,TRUE,FALSE,New Business,Healthcare,5/3/2018,Closed Lost,No Show,,,
+0060L00000mJy1fQAC,0010L00001rHhJCQA0,TRUE,TRUE,New Business,Healthcare,4/30/2018,Closed Won,Yelp Partnership,,Reputology,
+0060L00000jgZpeQAE,001E000001cEPqhIAG,TRUE,FALSE,New Business,Healthcare,4/28/2018,Closed Lost,Delayed Opportunity,,,
+0060L00000jNfPoQAK,001E000000gN3FoIAK,TRUE,FALSE,New Business,Healthcare,4/20/2018,Closed Lost,Delayed Opportunity,,SweetIQ,
+0060L00000mKxplQAC,0010L00001id9M5QAI,TRUE,FALSE,New Business,Healthcare,3/31/2018,Closed Lost,Delayed Opportunity,,Reputation.com,
+0060L00000mKHTIQA4,0010L00001m4TgyQAE,TRUE,FALSE,New Business,Healthcare,3/31/2018,Closed Lost,Delayed Opportunity,,,
+0060h000010aj6BAAQ,0010L00001mutJEQAY,TRUE,FALSE,New Business,Healthcare,3/31/2018,Closed Lost,Delayed Opportunity,,,
+0060L00000mJOA0QAO,0010L00001qWtrLQAS,TRUE,FALSE,New Business,Healthcare,3/31/2018,Closed Lost,No Show,,,
+0060L00000mJfcqQAC,0010L00001qXBUNQA4,TRUE,FALSE,New Business,Healthcare,3/31/2018,Closed Lost,Customer Stopped Responding,,,
+0060L00000mKFh1QAG,0010L00001oQzcKQAS,TRUE,FALSE,New Business,Healthcare,3/31/2018,Closed Lost,Delayed Opportunity,,,
+0060L00000h87nrQAA,001E000000gMSiYIAW,TRUE,FALSE,New Business,Healthcare,3/31/2018,Closed Lost,Delayed Opportunity,,New Brand Analytics,
+0060L00000mJpr3QAC,0010L00001rHJnqQAG,TRUE,FALSE,New Business,Healthcare,3/31/2018,Closed Lost,Customer Stopped Responding,,,
+0060L00000mKfS0QAK,001E00000165cNUIAY,TRUE,FALSE,New Business,Healthcare,3/31/2018,Closed Lost,Customer Not Qualified,,,
+0060L00000mKzn8QAC,001E000000gN3FoIAK,TRUE,FALSE,New Business,Healthcare,3/31/2018,Closed Lost,Delayed Opportunity,,SweetIQ,
+0060L00000mKdohQAC,0010L00001rJ1Y0QAK,TRUE,FALSE,New Business,Healthcare,3/31/2018,Closed Lost,Delayed Opportunity,,ReviewPush,
+0060L00000h8Tf5QAE,001E000000jCN2vIAG,TRUE,FALSE,New Business,Healthcare,3/31/2018,Closed Lost,Lost to Competitor,,Reputation.com,Reason Given: Features
+0060h000016HfCIAA0,001E0000011bOVDIA2,TRUE,FALSE,New Business,Healthcare,3/31/2018,Closed Lost,No Show,,Reputation.com,
+0060L00000mJCRJQA4,001E000000jBQDjIAO,TRUE,FALSE,New Business,Healthcare,3/31/2018,Closed Lost,Delayed Opportunity,,,
+0060h000010abGVAAY,001E000001cEPnqIAG,TRUE,FALSE,New Business,Healthcare,3/31/2018,Closed Lost,Delayed Opportunity,,,
+0060L00000mKalzQAC,001E000001UlWZ3IAN,TRUE,FALSE,New Business,Healthcare,3/31/2018,Closed Lost,No Show,,,
+0060L00000mK38EQAS,001E000001dr0yGIAQ,TRUE,FALSE,New Business,Healthcare,3/31/2018,Closed Lost,Delayed Opportunity,,,
+0060h000010b33hAAA,0010h00001QLaOQAA1,TRUE,FALSE,New Business,Healthcare,3/31/2018,Closed Lost,No Show,,Binary Fountain,
+0060L00000mKjyfQAC,001E000000jC9UrIAK,TRUE,FALSE,New Business,Healthcare,3/29/2018,Closed Lost,Delayed Opportunity,,Yext,
+0060L00000h9Jy9QAE,001E000000qJiNLIA0,TRUE,FALSE,New Business,Healthcare,3/28/2018,Closed Lost,Delayed Opportunity,,Yext,
+0060L00000mIsHkQAK,001E000001cEQNhIAO,TRUE,FALSE,New Business,Healthcare,3/28/2018,Closed Lost,Customer Not Qualified,,,
+0060L00000mK1ruQAC,001E000001EqEDdIAN,TRUE,TRUE,New Business,Healthcare,3/23/2018,Closed Won,Product Feature: All-In-One Dash,,Reputology,
+0060L00000mJxFwQAK,001E000001cEPdSIAW,TRUE,FALSE,New Business,Healthcare,3/16/2018,Closed Lost,Delayed Opportunity,,,
+0060L00000mJW3rQAG,001E000000qJiBQIA0,TRUE,FALSE,New Business,Healthcare,3/15/2018,Closed Lost,Customer Not Qualified,,,
+0060L00000kNNrwQAG,001E000001XrQG1IAN,TRUE,FALSE,New Business,Healthcare,3/11/2018,Closed Lost,Delayed Opportunity,,Reputation.com,
+0060L00000mJT6JQAW,001E0000013IoPPIA0,TRUE,TRUE,New Business,Healthcare,3/9/2018,Closed Won,Product Feature: Listings,,,
+0060L00000h8JBRQA2,0010L00001oml6GQAQ,TRUE,FALSE,New Business,Healthcare,2/28/2018,Closed Lost,Delayed Opportunity,,Reputation.com,
+0060L00000h9F9RQAU,0010L00001id9M5QAI,TRUE,FALSE,New Business,Healthcare,2/8/2018,Closed Lost,Delayed Opportunity,,Reputation.com,
+0060L00000h88PJQAY,001E000001hQLWIIA4,TRUE,FALSE,New Business,Healthcare,2/2/2018,Closed Lost,Delayed Opportunity,,Other,
+0060L00000mJZ99QAG,0010L00001rGQJwQAO,TRUE,TRUE,New Business,Healthcare,1/31/2018,Closed Won,Other (Explain),,ReviewPush,
+0060L00000mJayCQAS,0010L00001rGVVeQAO,TRUE,FALSE,New Business,Healthcare,1/31/2018,Closed Lost,Customer Stopped Responding,,,
+0060L00000kNrWqQAK,001E0000016WNmtIAG,TRUE,FALSE,New Business,Healthcare,1/12/2018,Closed Lost,Delayed Opportunity,,,
+0060L00000kNljuQAC,001E000001fq9fmIAA,TRUE,FALSE,New Business,Healthcare,1/11/2018,Closed Lost,Customer Stopped Responding,,,
+0060L00000jgiWZQAY,001E000001cEPTuIAO,TRUE,FALSE,New Business,Healthcare,1/1/2018,Closed Lost,Delayed Opportunity,,,
+0060L00000kNpmpQAC,0010L00001pi5tjQAA,TRUE,FALSE,New Business,Healthcare,12/31/2017,Closed Lost,Customer Not Qualified,,,
+0060L00000kJiaIQAS,001E000001EqDwpIAF,TRUE,FALSE,New Business,Healthcare,12/31/2017,Closed Lost,Delayed Opportunity,,,
+0060L00000jfltQQAQ,001E000000vucDqIAI,TRUE,FALSE,New Business,Healthcare,12/31/2017,Closed Lost,Delayed Opportunity,,,
+006E000000fkSnQIAU,001E0000013Ioh3IAC,TRUE,FALSE,New Business,Healthcare,12/29/2017,Closed Lost,No Show,,,
+0060L00000kNyemQAC,001E000001cEPkrIAG,TRUE,FALSE,New Business,Healthcare,12/25/2017,Closed Lost,Delayed Opportunity,,,
+006E000000fkNRBIA2,001E000001fqDZtIAM,TRUE,TRUE,New Business,Healthcare,12/22/2017,Closed Won,,,,
+0060L00000kMmrlQAC,001E00000165cHHIAY,TRUE,FALSE,New Business,Healthcare,12/10/2017,Closed Lost,No Show,,MOZ,
+0060L00000jfsofQAA,001E000001UlWZ3IAN,TRUE,FALSE,New Business,Healthcare,12/6/2017,Closed Lost,No Show,,,
+0060L00000kMtIMQA0,0010L00001muu2NQAQ,TRUE,FALSE,New Business,Healthcare,11/30/2017,Closed Lost,Delayed Opportunity,,Sprout Loud,
+0060L00000jfBQMQA2,0010L00001n78u0QAA,TRUE,FALSE,New Business,Healthcare,11/30/2017,Closed Lost,Delayed Opportunity,,,
+0060L00000h9IpaQAE,001E000001EqFBYIA3,TRUE,TRUE,New Business,Healthcare,11/30/2017,Closed Won,,,,
+0060L00000jglEhQAI,001E000000gN69DIAS,TRUE,FALSE,New Business,Healthcare,11/29/2017,Closed Lost,Lost to Competitor,,MOZ,
+0060L00000jgJtUQAU,0010L00001joD5eQAE,TRUE,FALSE,New Business,Healthcare,11/28/2017,Closed Lost,Customer Not Qualified,,,
+0060L00000jNXG9QAO,0010L00001mutJEQAY,TRUE,FALSE,New Business,Healthcare,11/28/2017,Closed Lost,Delayed Opportunity,,,
+0060L00000kNBCJQA4,001E000000jC9UrIAK,TRUE,FALSE,New Business,Healthcare,11/28/2017,Closed Lost,Delayed Opportunity,,Yext,
+0060L00000i42KZQAY,001E000001cEPeJIAW,TRUE,TRUE,New Business,Healthcare,11/27/2017,Closed Won,,,,
+0060L00000jhBGfQAM,001E000000jBQ75IAG,TRUE,FALSE,New Business,Healthcare,11/20/2017,Closed Lost,Delayed Opportunity,,,
+0060L00000kMsdEQAS,001E000001cEPSvIAO,TRUE,TRUE,New Business,Healthcare,11/15/2017,Closed Won,,,,
+0060L00000h8Rd0QAE,0010L00001on7GdQAI,TRUE,FALSE,New Business,Healthcare,11/9/2017,Closed Lost,Lost to Competitor,,Yext,
+0060L00000kNbqFQAS,0010L00001oxKP4QAM,TRUE,FALSE,New Business,Healthcare,11/9/2017,Closed Lost,Customer Not Qualified,,,
+0060L00000kNTorQAG,0010L00001ox0GSQAY,TRUE,FALSE,New Business,Healthcare,10/26/2017,Closed Lost,Reseller Opportunity,,,
+0060L00000i5PiFQAU,001E000001cEPWeIAO,TRUE,FALSE,New Business,Healthcare,10/12/2017,Closed Lost,No Show,,,
+0060L00000i4aRKQAY,001E000001EqFMgIAN,TRUE,FALSE,New Business,Healthcare,9/30/2017,Closed Lost,Delayed Opportunity,,,
+0060L00000jgmGUQAY,001E000000jCHpPIAW,TRUE,FALSE,New Business,Healthcare,9/28/2017,Closed Lost,Delayed Opportunity,,,
+0060L00000i6LQBQA2,001E000001fq9fHIAQ,TRUE,TRUE,New Business,Healthcare,9/14/2017,Closed Won,,,Reputation.com,
+0060L00000i4zEmQAI,001E000001EqFi8IAF,TRUE,FALSE,New Business,Healthcare,9/12/2017,Closed Lost,Customer Stopped Responding,,,
+0060L00000jO4DkQAK,001E000000jBPv8IAG,TRUE,FALSE,New Business,Healthcare,8/14/2017,Closed Lost,No Show,,New Brand Analytics,
+0060L00000jNXW2QAO,0010L00001jBfzRQAS,TRUE,TRUE,New Business,Healthcare,8/7/2017,Closed Won,,,,
+0060L00000jBypPQAS,001E000001EqFBYIA3,TRUE,TRUE,New Business,Healthcare,7/25/2017,Closed Won,,,,
+0060L00000jCUjCQAW,001E000000jBQmtIAG,TRUE,FALSE,New Business,Healthcare,7/10/2017,Closed Lost,No Show,,,
+0060L00000goW7LQAU,001E000000gN6ilIAC,TRUE,FALSE,New Business,Healthcare,7/6/2017,Closed Lost,Customer Stopped Responding,,,
+006E000000fkYjmIAE,001E000000qJiNLIA0,TRUE,FALSE,New Business,Healthcare,6/30/2017,Closed Lost,Delayed Opportunity,,Yext,
+0060L00000jCLJuQAO,001E00000165cXtIAI,TRUE,FALSE,New Business,Healthcare,6/30/2017,Closed Lost,Delayed Opportunity,,,
+0060L00000jCfCmQAK,001E000001fq9fkIAA,TRUE,FALSE,New Business,Healthcare,6/30/2017,Closed Lost,Customer Stopped Responding,,,
+0060L00000jCV4yQAG,001E000001655TgIAI,TRUE,FALSE,New Business,Healthcare,6/26/2017,Closed Lost,No Show,,,
+0060L00000jCDk4QAG,0010L00001id9M5QAI,TRUE,FALSE,New Business,Healthcare,6/20/2017,Closed Lost,Customer Stopped Responding,,Reputation.com,
+0060L00000jCf8kQAC,001E000001fq9fkIAA,TRUE,FALSE,New Business,Healthcare,6/15/2017,Closed Lost,Price/Budget,,,
+0060L00000i69AUQAY,001E0000013IoPPIA0,TRUE,FALSE,New Business,Healthcare,6/14/2017,Closed Lost,No Show,,,
+0060L00000i6PJXQA2,0010L00001m4TgyQAE,TRUE,FALSE,New Business,Healthcare,6/5/2017,Closed Lost,Delayed Opportunity,,,
+0060L00000i4eoYQAQ,0010L00001j9lbhQAA,TRUE,FALSE,New Business,Healthcare,5/31/2017,Closed Lost,Delayed Opportunity,,,
+0060L00000i4Y3HQAU,001E000001cEPewIAG,TRUE,FALSE,New Business,Healthcare,5/30/2017,Closed Lost,Customer Changed Priorities,,MOZ,
+0060L00000i5dbWQAQ,0010L00001joD5eQAE,TRUE,FALSE,New Business,Healthcare,5/29/2017,Closed Lost,Customer Not Qualified,,,
+0060L00000i5zPfQAI,001E00000165cbvIAA,TRUE,FALSE,New Business,Healthcare,5/8/2017,Closed Lost,Delayed Opportunity,Sweet IQ,SweetIQ,
+0060L00000i39M0QAI,001E000000jC9nTIAS,TRUE,FALSE,New Business,Healthcare,4/30/2017,Closed Lost,Customer Changed Priorities,,,
+0060L00000i2Y9ZQAU,001E000001cEPjWIAW,TRUE,FALSE,New Business,Healthcare,4/30/2017,Closed Lost,Delayed Opportunity,,,
+0060L00000i4DdfQAE,001E000001dr0yGIAQ,TRUE,FALSE,New Business,Healthcare,4/30/2017,Closed Lost,Customer Stopped Responding,,,
+0060L00000i5w0cQAA,001E000000jC9mBIAS,TRUE,FALSE,New Business,Healthcare,4/27/2017,Closed Lost,No Show,,,
+0060L00000i5PKcQAM,001E000001fq9gdIAA,TRUE,FALSE,New Business,Healthcare,4/17/2017,Closed Lost,Price/Budget,,,
+0060L00000i4JegQAE,001E000001cEPqhIAG,TRUE,FALSE,New Business,Healthcare,4/7/2017,Closed Lost,Lost to Competitor,,,
+0060L00000i2eUzQAI,001E000001XrQIXIA3,TRUE,FALSE,New Business,Healthcare,4/3/2017,Closed Lost,Customer Stopped Responding,,,
+0060L00000i4Vw0QAE,001E000000jCN2vIAG,TRUE,FALSE,New Business,Healthcare,3/31/2017,Closed Lost,Lost to Competitor,Stayed with their current vendor.  Responding in dashboard HUGE for them.,Reputation.com,
+0060L00000i4NzAQAU,001E000001hQLiOIAW,TRUE,TRUE,New Business,Healthcare,3/31/2017,Closed Won,,,,
+0060L00000i3GKoQAM,001E000001UlWZ3IAN,TRUE,FALSE,New Business,Healthcare,3/30/2017,Closed Lost,Customer Not Qualified,,,
+006E000000fk5mZIAQ,001E000001ews8dIAA,TRUE,FALSE,New Business,Healthcare,3/22/2017,Closed Lost,Delayed Opportunity,,,
+0060L00000i5V81QAE,0010L00001ku7xAQAQ,TRUE,FALSE,New Business,Healthcare,3/15/2017,Closed Lost,Customer Changed Priorities,,,
+0060L00000i464ZQAQ,001E000001EqFEmIAN,TRUE,FALSE,New Business,Healthcare,3/15/2017,Closed Lost,No Show,,,
+006E000000fv01XIAQ,001E000001cEPZdIAO,TRUE,FALSE,New Business,Healthcare,3/7/2017,Closed Lost,Delayed Opportunity,,,
+0060L00000i2S10QAE,001E000001EqE7lIAF,TRUE,FALSE,New Business,Healthcare,2/28/2017,Closed Lost,Lost to Competitor,Yext,SIM Partners,
+0060L00000i2tQAQAY,001E000001cEPXeIAO,TRUE,FALSE,New Business,Healthcare,2/24/2017,Closed Lost,Delayed Opportunity,,,
+0060L00000h8knCQAQ,001E000000jBQkJIAW,TRUE,FALSE,New Business,Healthcare,1/31/2017,Closed Lost,Customer Stopped Responding,,,
+0060L00000i33r2QAA,001E000001cEPXEIA4,TRUE,FALSE,New Business,Healthcare,1/31/2017,Closed Lost,Lost to Competitor,unknown - will not disclose,,
+006E000000fjh5tIAA,001E000001csDBWIA2,TRUE,FALSE,New Business,Healthcare,1/31/2017,Closed Lost,Delayed Opportunity,,,
+0060L00000i3B2MQAU,001E000000jC9SlIAK,TRUE,FALSE,New Business,Healthcare,1/23/2017,Closed Lost,Price/Budget,,,
+0060L00000i3AJqQAM,0010L00001jA3W6QAK,TRUE,FALSE,New Business,Healthcare,1/19/2017,Closed Lost,Price/Budget,,Reputation.com,
+0060L00000i2dHgQAI,001E000000jCN0iIAG,TRUE,FALSE,New Business,Healthcare,1/18/2017,Closed Lost,Delayed Opportunity,,,
+0060L00000i3B3yQAE,001E000001fq9fQIAQ,TRUE,FALSE,New Business,Healthcare,1/17/2017,Closed Lost,Delayed Opportunity,,,
+006E000000c8q6GIAQ,001E000000ughl6IAA,TRUE,FALSE,New Business,Healthcare,1/1/2017,Closed Lost,SE Turnover,,,
+0060L00000i39TkQAI,0010L00001jAd5KQAS,TRUE,FALSE,New Business,Healthcare,12/31/2016,Closed Lost,Customer Not Qualified,,,
+006E000000glFtbIAE,001E000000qJhzSIAS,TRUE,FALSE,New Business,Healthcare,12/30/2016,Closed Lost,Delayed Opportunity,,Reputation.com,
+006E000000fkbMxIAI,001E000000jBQkEIAW,TRUE,FALSE,New Business,Healthcare,12/30/2016,Closed Lost,Customer Stopped Responding,,,
+006E000000fuu4PIAQ,001E000001fq9g6IAA,TRUE,FALSE,New Business,Healthcare,12/30/2016,Closed Lost,Customer Stopped Responding,,,
+006E000000c9DVeIAM,001E000001XrQG1IAN,TRUE,FALSE,New Business,Healthcare,12/30/2016,Closed Lost,Delayed Opportunity,,Reputation.com,
+006E000000fjnG0IAI,001E000001UlWZ3IAN,TRUE,FALSE,New Business,Healthcare,12/30/2016,Closed Lost,Delayed Opportunity,,,
+0060L00000goRt4QAE,001E0000016o0r8IAA,TRUE,FALSE,New Business,Healthcare,12/21/2016,Closed Lost,Lost to Competitor,Rallio,Qiigo,
+0060L00000goYm7QAE,001E000001fq9NLIAY,TRUE,FALSE,New Business,Healthcare,12/19/2016,Closed Lost,No Show,,,
+006E000000gnjVDIAY,0010L00001j9lbhQAA,TRUE,FALSE,New Business,Healthcare,12/1/2016,Closed Lost,Delayed Opportunity,,,
+0060L00000i39TpQAI,0010L00001jAd5KQAS,TRUE,FALSE,New Business,Healthcare,11/30/2016,Closed Lost,Customer Not Qualified,,,
+006E000000fkBrcIAE,001E000001EqF6hIAF,TRUE,FALSE,New Business,Healthcare,11/30/2016,Closed Lost,Lost to Competitor,"Client will only say they ""went in different direction""",,
+0060L00000i3NOkQAM,001E000000jCN0iIAG,TRUE,TRUE,New Business,Healthcare,11/30/2016,Closed Won,,,,
+006E000000fkgWYIAY,001E000001cEPkrIAG,TRUE,FALSE,New Business,Healthcare,11/10/2016,Closed Lost,Customer Changed Priorities,,,
+006E000000c8C4XIAU,001E000001EqFMvIAN,TRUE,FALSE,New Business,Healthcare,11/3/2016,Closed Lost,Customer Stopped Responding,,,
+006E000000fkJdwIAE,001E000001EqFexIAF,TRUE,TRUE,New Business,Healthcare,10/27/2016,Closed Won,,,,
+006E000000fkJyLIAU,001E000000jBQlMIAW,TRUE,FALSE,New Business,Healthcare,10/20/2016,Closed Lost,Delayed Opportunity,,,
+006E000000fupZ7IAI,001E000000jBPv8IAG,TRUE,FALSE,New Business,Healthcare,10/8/2016,Closed Lost,Delayed Opportunity,,New Brand Analytics,
+006E000000fkEh4IAE,001E000000UfccTIAR,TRUE,FALSE,New Business,Healthcare,10/6/2016,Closed Lost,Customer Stopped Responding,,Yext,
+006E000000c8QkWIAU,001E000001EqF6hIAF,TRUE,FALSE,New Business,Healthcare,9/21/2016,Closed Lost,Delayed Opportunity,,,
+006E000000c9CHSIA2,001E000001dr3r9IAA,TRUE,FALSE,New Business,Healthcare,9/21/2016,Closed Lost,Price/Budget,,,
+006E000000fjgH5IAI,001E000001cEPSRIA4,TRUE,FALSE,New Business,Healthcare,9/20/2016,Closed Lost,Delayed Opportunity,,,
+006E000000fkIeyIAE,001E000000jBQmtIAG,TRUE,FALSE,New Business,Healthcare,9/15/2016,Closed Lost,Customer Stopped Responding,,,
+006E000000fkJgMIAU,001E000000jBQsjIAG,TRUE,TRUE,New Business,Healthcare,8/24/2016,Closed Won,,,,
+006E000000fkUFBIA2,001E0000016WOoiIAG,TRUE,TRUE,New Business,Healthcare,8/23/2016,Closed Won,,,,
+006E000000fkQs8IAE,001E000000jBQDjIAO,TRUE,FALSE,New Business,Healthcare,8/23/2016,Closed Lost,Lost to Competitor,Birdeye,,
+006E000000fkJaiIAE,001E0000011bOVDIA2,TRUE,FALSE,New Business,Healthcare,7/21/2016,Closed Lost,Lost to Competitor,rep.com,Reputation.com,
+006E000000fjzMnIAI,001E000001655I9IAI,TRUE,FALSE,New Business,Healthcare,7/14/2016,Closed Lost,Lost to Competitor,YP.com subsidiary.  $12.50 for aggregator updating & some manual listing management.,SOCi,
+006E000000c87xhIAA,001E000000zJU1jIAG,TRUE,FALSE,New Business,Healthcare,5/31/2016,Closed Lost,Lost to Competitor,Velocity (Sim Partners),Other,
+006E000000fjgLwIAI,001E000000jCN2vIAG,TRUE,FALSE,New Business,Healthcare,5/11/2016,Closed Lost,Customer Stopped Responding,,Reputation.com,
+006E000000fjgM0IAI,001E000000gMzd7IAC,TRUE,FALSE,New Business,Healthcare,5/9/2016,Closed Lost,Customer Stopped Responding,,,
+006E000000fjgMWIAY,001E000000gN39vIAC,TRUE,FALSE,New Business,Healthcare,4/27/2016,Closed Lost,Customer Stopped Responding,,,
+006E000000c64MGIAY,001E000001OXvq1IAD,TRUE,FALSE,New Business,Healthcare,2/19/2016,Closed Lost,Customer Stopped Responding,,Connectivity,
+0060L00000i3nXBQAY,0010L00001jln2sQAA,TRUE,FALSE,New Business,Healthcare,2/16/2016,Closed Lost,Customer Changed Priorities,,,
+0060L00000i5GGhQAM,001E000000YMDfUIAX,TRUE,TRUE,New Business,Healthcare,1/28/2016,Closed Won,,,,
+006E000000a82MbIAI,001E000001EqFjUIAV,TRUE,FALSE,New Business,Healthcare,11/13/2015,Closed Lost,Lost to Competitor,Chose someone cheaper,Yext,Reason Given: Price
+006E000000XLVRAIA5,001E000000UfccTIAR,TRUE,FALSE,New Business,Healthcare,9/30/2015,Closed Lost,Customer Changed Priorities,,Yext,
+006E000000UWFMgIAP,001E000000jC9NeIAK,TRUE,TRUE,New Business,Healthcare,5/14/2015,Closed Won,,,New Brand Analytics,
+006E000000R6iSAIAZ,001E0000017olPgIAI,TRUE,FALSE,New Business,Healthcare,3/31/2015,Closed Lost,Customer Not Qualified,,,
+006E000000MFpsiIAD,001E000000rWv17IAC,TRUE,FALSE,New Business,Healthcare,12/31/2014,Closed Lost,Lost to Competitor,Yext for listing cleanup,Yext,
+006E000000KP4oAIAT,001E000000ughl6IAA,TRUE,FALSE,New Business,Healthcare,11/30/2014,Closed Lost,Customer Stopped Responding,,,
+006E000000MIz6XIAT,001E000000jC9JmIAK,TRUE,TRUE,New Business,Healthcare,10/28/2014,Closed Won,,,,
+006E000000IP5S7IAL,001E000000jC9JmIAK,TRUE,FALSE,New Business,Healthcare,7/4/2014,Closed Lost,Customer Stopped Responding,,,
+006E000000GgDCdIAN,001E000000rWv17IAC,TRUE,TRUE,New Business,Healthcare,5/30/2014,Closed Won,,,Yext,
+006E000000GeD1LIAV,001E000000qIFKfIAO,TRUE,TRUE,New Business,Healthcare,5/8/2014,Closed Won,,,,
+006E000000GegtaIAB,001E000000r0WYfIAM,TRUE,FALSE,New Business,Healthcare,4/18/2014,Closed Lost,Customer Stopped Responding,,Yext,
+006E000000EwqgyIAB,001E000000gMa5JIAS,TRUE,FALSE,New Business,Healthcare,2/28/2014,Closed Lost,Customer Stopped Responding,,,
+006E000000CjQVCIA3,001E000000gN6ilIAC,TRUE,FALSE,New Business,Healthcare,10/31/2013,Closed Lost,Customer Changed Priorities,,,
+006E000000AGbVsIAL,001E000001gmTxaIAE,TRUE,FALSE,New Business,Healthcare,1/31/2013,Closed Lost,Customer Stopped Responding,,,
